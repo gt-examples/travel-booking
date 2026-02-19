@@ -1,0 +1,233 @@
+{
+  "07351425e8098488": "A cidade que nunca dorme oferece espetáculos da Broadway, gastronomia de classe mundial e pontos turísticos icônicos, do Central Park à Estátua da Liberdade.",
+  "0ad2e23bbec0da99": {
+    "c": [
+      {
+        "i": 2,
+        "k": "_gt_n_2",
+        "v": "n"
+      },
+      " (",
+      {
+        "d": {
+          "b": {
+            "many": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " avaliações"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "other": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " avaliações"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "plural": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " avaliações"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "singular": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " revisão"
+              ],
+              "i": 4,
+              "t": "C4"
+            }
+          },
+          "t": "p"
+        },
+        "i": 3,
+        "t": "Plural"
+      },
+      ")"
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "141628177c47e517": "Vilas brancas empoleiradas em falésias vulcânicas com vista para o Mar Egeu. Pôr do sol lendário, vinhos locais e charme mediterrâneo em cada esquina.",
+  "1f72a2b02004431b": "Reserva de viagem",
+  "41d504ebedc89299": "O coração cultural do Japão, lar de mais de dois mil templos e santuários. Passeie por bosques de bambu, participe de uma cerimônia do chá e vivencie a cultura das gueixas.",
+  "54db4f89c8684d04": [
+    {
+      "c": "Descubra seu próximo destino",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": "Explore hotéis e voos selecionados ao redor do mundo. Preços, datas e detalhes se adaptam automaticamente ao seu idioma e região.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "589c82771b58d7e3": {
+    "c": [
+      {
+        "c": {
+          "i": 3,
+          "t": "path"
+        },
+        "i": 2,
+        "t": "svg"
+      },
+      {
+        "d": {
+          "b": {
+            "many": {
+              "c": [
+                {
+                  "i": 6,
+                  "k": "_gt_n_6",
+                  "v": "n"
+                },
+                " convidados"
+              ],
+              "i": 5,
+              "t": "C5"
+            },
+            "other": {
+              "c": [
+                {
+                  "i": 6,
+                  "k": "_gt_n_6",
+                  "v": "n"
+                },
+                " convidados"
+              ],
+              "i": 5,
+              "t": "C5"
+            },
+            "plural": {
+              "c": [
+                {
+                  "i": 6,
+                  "k": "_gt_n_6",
+                  "v": "n"
+                },
+                " convidados"
+              ],
+              "i": 5,
+              "t": "C5"
+            },
+            "singular": {
+              "c": [
+                {
+                  "i": 6,
+                  "k": "_gt_n_6",
+                  "v": "n"
+                },
+                " convidado"
+              ],
+              "i": 5,
+              "t": "C5"
+            }
+          },
+          "t": "p"
+        },
+        "i": 4,
+        "t": "Plural"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "58bec0a5a88d5b95": "Tóquio, Japão",
+  "62b3af8d7befdc26": [
+    {
+      "c": [
+        {
+          "c": "Por noite",
+          "i": 2,
+          "t": "span"
+        },
+        {
+          "c": {
+            "i": 4,
+            "k": "_gt_cost_4",
+            "v": "c"
+          },
+          "i": 3,
+          "t": "div"
+        }
+      ],
+      "i": 1,
+      "t": "div"
+    },
+    {
+      "c": "Reserve agora",
+      "i": 5,
+      "t": "button"
+    }
+  ],
+  "8a9d211c35c0cd7b": "Terraços de arroz exuberantes, templos sagrados de água e praias preservadas fazem de Bali um paraíso insular. Encontre serenidade em Ubud ou pegue ondas em Uluwatu.",
+  "95e840bd4cc7cd17": "Bali, Indonésia",
+  "aec703117cb5a895": "Santorini, Grécia",
+  "b2fc84a56f245f5d": "Paris, França",
+  "bfe506884a4a0d04": "Uma metrópole deslumbrante onde templos antigos ficam lado a lado com arranha-céus iluminados por neon. Explore séculos de história, gastronomia de classe mundial e tecnologia de ponta.",
+  "c26d6acd8e1b2aa2": {
+    "c": [
+      {
+        "c": {
+          "i": 3,
+          "t": "path"
+        },
+        "i": 2,
+        "t": "svg"
+      },
+      {
+        "c": [
+          {
+            "i": 5,
+            "k": "_gt_date_5",
+            "v": "d"
+          },
+          " - ",
+          {
+            "i": 6,
+            "k": "_gt_date_6",
+            "v": "d"
+          }
+        ],
+        "i": 4,
+        "t": "span"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "d020aa82dd871c46": {
+    "c": "Desenvolvido com General Translation para demonstrar a formatação de preços, datas e plurais com base na localidade.",
+    "i": 1,
+    "t": "p"
+  },
+  "d5d92191426ff1a8": "Reserva de Viagens | Tradução Geral",
+  "d88fbba24b94901e": "Descubra e reserve destinos inesquecíveis com preços, datas e contagem de hóspedes adequados ao idioma e à região do usuário.",
+  "e0a695de2a4193c8": "A Cidade Luz convida com pontos turísticos icônicos, museus de renome mundial e uma cultura de cafés que transforma cada refeição em uma ocasião especial.",
+  "e5ea8b399db2f5b1": "Nova York, EUA",
+  "f8dc62e5d2534f50": "Quioto, Japão"
+}

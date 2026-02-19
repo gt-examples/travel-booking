@@ -1,0 +1,209 @@
+{
+  "07351425e8098488": "Die Stadt, die niemals schläft, bietet Broadway-Shows, erstklassige Gastronomie und ikonische Sehenswürdigkeiten – von Central Park bis zur Freiheitsstatue.",
+  "0ad2e23bbec0da99": {
+    "c": [
+      {
+        "i": 2,
+        "k": "_gt_n_2",
+        "v": "n"
+      },
+      " (",
+      {
+        "d": {
+          "b": {
+            "other": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " Bewertungen"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "plural": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " Bewertungen"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "singular": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " Review"
+              ],
+              "i": 4,
+              "t": "C4"
+            }
+          },
+          "t": "p"
+        },
+        "i": 3,
+        "t": "Plural"
+      },
+      ")"
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "141628177c47e517": "Weißgetünchte Dörfer auf Vulkanklippen mit Blick auf die Ägäis. Legendäre Sonnenuntergänge, lokale Weine und mediterraner Charme an jeder Ecke.",
+  "1f72a2b02004431b": "Reise buchen",
+  "41d504ebedc89299": "Das kulturelle Herz Japans mit mehr als zweitausend Tempeln und Schreinen. Schlendere durch Bambushaine, nimm an einer Teezeremonie teil und tauche ein in die Welt der Geishas.",
+  "54db4f89c8684d04": [
+    {
+      "c": "Entdecke dein nächstes Reiseziel",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": "Stöbere in handverlesenen Hotels und Flügen weltweit. Preise, Daten und Details passen sich automatisch an deine Sprache und Region an.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "589c82771b58d7e3": {
+    "c": [
+      {
+        "c": {
+          "i": 3,
+          "t": "path"
+        },
+        "i": 2,
+        "t": "svg"
+      },
+      {
+        "d": {
+          "b": {
+            "other": {
+              "c": [
+                {
+                  "i": 6,
+                  "k": "_gt_n_6",
+                  "v": "n"
+                },
+                " Gäste"
+              ],
+              "i": 5,
+              "t": "C5"
+            },
+            "plural": {
+              "c": [
+                {
+                  "i": 6,
+                  "k": "_gt_n_6",
+                  "v": "n"
+                },
+                " Gäste"
+              ],
+              "i": 5,
+              "t": "C5"
+            },
+            "singular": {
+              "c": [
+                {
+                  "i": 6,
+                  "k": "_gt_n_6",
+                  "v": "n"
+                },
+                " Gast"
+              ],
+              "i": 5,
+              "t": "C5"
+            }
+          },
+          "t": "p"
+        },
+        "i": 4,
+        "t": "Plural"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "58bec0a5a88d5b95": "Tokio, Japan",
+  "62b3af8d7befdc26": [
+    {
+      "c": [
+        {
+          "c": "Pro Nacht",
+          "i": 2,
+          "t": "span"
+        },
+        {
+          "c": {
+            "i": 4,
+            "k": "_gt_cost_4",
+            "v": "c"
+          },
+          "i": 3,
+          "t": "div"
+        }
+      ],
+      "i": 1,
+      "t": "div"
+    },
+    {
+      "c": "Jetzt buchen",
+      "i": 5,
+      "t": "button"
+    }
+  ],
+  "8a9d211c35c0cd7b": "Üppige Reisterrassen, heilige Wassertempel und unberührte Strände machen Bali zu einem Inselparadies. Finde Ruhe in Ubud oder surfe auf den Wellen vor Uluwatu.",
+  "95e840bd4cc7cd17": "Bali, Indonesien",
+  "aec703117cb5a895": "Santorin, Griechenland",
+  "b2fc84a56f245f5d": "Paris, Frankreich",
+  "bfe506884a4a0d04": "Eine glitzernde Metropole, in der alte Tempel neben neonbeleuchteten Wolkenkratzern stehen. Erkunde Jahrhunderte Geschichte, Spitzenküche und modernste Technologie.",
+  "c26d6acd8e1b2aa2": {
+    "c": [
+      {
+        "c": {
+          "i": 3,
+          "t": "path"
+        },
+        "i": 2,
+        "t": "svg"
+      },
+      {
+        "c": [
+          {
+            "i": 5,
+            "k": "_gt_date_5",
+            "v": "d"
+          },
+          " - ",
+          {
+            "i": 6,
+            "k": "_gt_date_6",
+            "v": "d"
+          }
+        ],
+        "i": 4,
+        "t": "span"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "d020aa82dd871c46": {
+    "c": "Erstellt mit General Translation, um die gebietsschemabezogene Formatierung von Preisen, Datumsangaben und Pluralformen zu demonstrieren.",
+    "i": 1,
+    "t": "p"
+  },
+  "d5d92191426ff1a8": "Reisebuchung | Allgemeine Übersetzung",
+  "d88fbba24b94901e": "Entdecke und buche unvergessliche Reiseziele mit sprachabhängigen Preisen, Datumsangaben und Gästeanzahl.",
+  "e0a695de2a4193c8": "Die Stadt der Lichter lockt mit ikonischen Wahrzeichen, weltberühmten Museen und einer Café-Kultur, die jede Mahlzeit zu etwas Besonderem macht.",
+  "e5ea8b399db2f5b1": "New York, USA",
+  "f8dc62e5d2534f50": "Kyoto, Japan"
+}

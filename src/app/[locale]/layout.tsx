@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import { GTProvider } from "gt-next";
-import { getGT } from "gt-next/server";
+import { getGT, getLocaleDirection } from "gt-next/server";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -39,6 +39,12 @@ export async function generateMetadata({
         ja: "/ja",
         fr: "/fr",
         zh: "/zh",
+        de: "/de",
+        ko: "/ko",
+        "pt-BR": "/pt-BR",
+        ar: "/ar",
+        it: "/it",
+        hi: "/hi",
       },
     },
   };
@@ -53,7 +59,7 @@ export default async function RootLayout({
 }>) {
   const { locale } = await params;
   return (
-    <html lang={locale}>
+    <html lang={locale} dir={getLocaleDirection(locale)}>
       <body className={`${geistSans.variable} antialiased`}>
         <GTProvider>{children}</GTProvider>
       </body>

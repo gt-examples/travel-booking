@@ -5,10 +5,6 @@ import { destinations, getDestination } from "@/data/destinations";
 import Header from "@/components/Header";
 import StarRating from "@/components/StarRating";
 
-export function generateStaticParams() {
-  return destinations.map((d) => ({ id: d.id }));
-}
-
 const amenityLabels: Record<string, { icon: string; label: string }> = {
   wifi: { icon: "📶", label: "Free Wi-Fi" },
   pool: { icon: "🏊", label: "Swimming Pool" },

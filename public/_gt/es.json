@@ -1,0 +1,233 @@
+{
+  "07351425e8098488": "La ciudad que nunca duerme ofrece espectáculos de Broadway, gastronomía de primer nivel y lugares emblemáticos, desde Central Park hasta la Estatua de la Libertad.",
+  "0ad2e23bbec0da99": {
+    "c": [
+      {
+        "i": 2,
+        "k": "_gt_n_2",
+        "v": "n"
+      },
+      " (",
+      {
+        "d": {
+          "b": {
+            "many": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " reseñas"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "other": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " reseñas"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "plural": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " reseñas"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "singular": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " revisión"
+              ],
+              "i": 4,
+              "t": "C4"
+            }
+          },
+          "t": "p"
+        },
+        "i": 3,
+        "t": "Plural"
+      },
+      ")"
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "141628177c47e517": "Pueblos encalados encaramados en acantilados volcánicos con vistas al mar Egeo. Puestas de sol legendarias, vinos locales y encanto mediterráneo en cada rincón.",
+  "1f72a2b02004431b": "Reserva de viajes",
+  "41d504ebedc89299": "El corazón cultural de Japón, hogar de más de dos mil templos y santuarios. Pasea por bosques de bambú, asiste a una ceremonia del té y descubre la tradición de las geishas.",
+  "54db4f89c8684d04": [
+    {
+      "c": "Descubre tu próximo destino",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": "Explora hoteles y vuelos seleccionados de todo el mundo. Los precios, fechas y detalles se adaptan automáticamente a tu idioma y región.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "589c82771b58d7e3": {
+    "c": [
+      {
+        "c": {
+          "i": 3,
+          "t": "path"
+        },
+        "i": 2,
+        "t": "svg"
+      },
+      {
+        "d": {
+          "b": {
+            "many": {
+              "c": [
+                {
+                  "i": 6,
+                  "k": "_gt_n_6",
+                  "v": "n"
+                },
+                " invitados"
+              ],
+              "i": 5,
+              "t": "C5"
+            },
+            "other": {
+              "c": [
+                {
+                  "i": 6,
+                  "k": "_gt_n_6",
+                  "v": "n"
+                },
+                " invitados"
+              ],
+              "i": 5,
+              "t": "C5"
+            },
+            "plural": {
+              "c": [
+                {
+                  "i": 6,
+                  "k": "_gt_n_6",
+                  "v": "n"
+                },
+                " invitados"
+              ],
+              "i": 5,
+              "t": "C5"
+            },
+            "singular": {
+              "c": [
+                {
+                  "i": 6,
+                  "k": "_gt_n_6",
+                  "v": "n"
+                },
+                " invitado"
+              ],
+              "i": 5,
+              "t": "C5"
+            }
+          },
+          "t": "p"
+        },
+        "i": 4,
+        "t": "Plural"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "58bec0a5a88d5b95": "Tokio, Japón",
+  "62b3af8d7befdc26": [
+    {
+      "c": [
+        {
+          "c": "Por noche",
+          "i": 2,
+          "t": "span"
+        },
+        {
+          "c": {
+            "i": 4,
+            "k": "_gt_cost_4",
+            "v": "c"
+          },
+          "i": 3,
+          "t": "div"
+        }
+      ],
+      "i": 1,
+      "t": "div"
+    },
+    {
+      "c": "Reservar ahora",
+      "i": 5,
+      "t": "button"
+    }
+  ],
+  "8a9d211c35c0cd7b": "Exuberantes terrazas de arroz, templos de agua sagrados y playas vírgenes hacen de Bali un paraíso insular. Encuentra serenidad en Ubud o surfea las olas de Uluwatu.",
+  "95e840bd4cc7cd17": "Bali, Indonesia",
+  "aec703117cb5a895": "Santorini, Grecia",
+  "b2fc84a56f245f5d": "París, Francia",
+  "bfe506884a4a0d04": "Una metrópolis deslumbrante donde los templos antiguos se alzan junto a rascacielos iluminados con neón. Explora siglos de historia, gastronomía de primer nivel y tecnología de vanguardia.",
+  "c26d6acd8e1b2aa2": {
+    "c": [
+      {
+        "c": {
+          "i": 3,
+          "t": "path"
+        },
+        "i": 2,
+        "t": "svg"
+      },
+      {
+        "c": [
+          {
+            "i": 5,
+            "k": "_gt_date_5",
+            "v": "d"
+          },
+          " - ",
+          {
+            "i": 6,
+            "k": "_gt_date_6",
+            "v": "d"
+          }
+        ],
+        "i": 4,
+        "t": "span"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "d020aa82dd871c46": {
+    "c": "Desarrollado con General Translation para demostrar el formato según la configuración regional de precios, fechas y plurales.",
+    "i": 1,
+    "t": "p"
+  },
+  "d5d92191426ff1a8": "Reservas de viaje | Traducción general",
+  "d88fbba24b94901e": "Descubre y reserva destinos inolvidables con precios, fechas y recuentos de huéspedes ajustados al idioma y la región.",
+  "e0a695de2a4193c8": "La Ciudad de la Luz atrae con monumentos icónicos, museos de renombre mundial y una cultura cafetera que convierte cada comida en una ocasión especial.",
+  "e5ea8b399db2f5b1": "New York, USA",
+  "f8dc62e5d2534f50": "Kioto, Japón"
+}

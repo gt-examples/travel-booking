@@ -1,5 +1,4 @@
 {
-  "07351425e8098488": "La città che non dorme mai offre spettacoli di Broadway, ristoranti di fama mondiale e luoghi iconici, da Central Park alla Statua della Libertà.",
   "0ad2e23bbec0da99": {
     "c": [
       {
@@ -70,9 +69,87 @@
     "i": 1,
     "t": "span"
   },
-  "141628177c47e517": "Villaggi imbiancati a calce, arroccati su scogliere vulcaniche affacciate sul Mar Egeo. Tramonti leggendari, vini locali e fascino mediterraneo dietro ogni angolo.",
+  "0c730b7f189776b6": "Visualizza su GitHub",
+  "1459707b85024244": {
+    "c": "Recensioni degli ospiti",
+    "i": 1,
+    "t": "h2"
+  },
   "1f72a2b02004431b": "Prenotazione viaggi",
-  "41d504ebedc89299": "Il cuore culturale del Giappone, con oltre duemila templi e santuari. Passeggia nei boschetti di bambù, prendi parte a una cerimonia del tè e scopri la tradizione delle geisha.",
+  "23d34114b6f1b4dd": {
+    "c": "Torna alle destinazioni",
+    "i": 1,
+    "t": "a"
+  },
+  "4899278a5f59fac4": {
+    "c": [
+      {
+        "i": 2,
+        "k": "_gt_n_2",
+        "v": "n"
+      },
+      " — ",
+      {
+        "d": {
+          "b": {
+            "many": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " recensioni"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "other": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " recensioni"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "plural": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " recensioni"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "singular": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " recensione"
+              ],
+              "i": 4,
+              "t": "C4"
+            }
+          },
+          "t": "p"
+        },
+        "i": 3,
+        "t": "Plural"
+      }
+    ],
+    "i": 1,
+    "t": "span"
+  },
   "54db4f89c8684d04": [
     {
       "c": "Scopri la tua prossima destinazione",
@@ -156,7 +233,6 @@
     "i": 1,
     "t": "div"
   },
-  "58bec0a5a88d5b95": "Tokyo, Giappone",
   "62b3af8d7befdc26": [
     {
       "c": [
@@ -181,14 +257,39 @@
     {
       "c": "Prenota ora",
       "i": 5,
-      "t": "button"
+      "t": "span"
     }
   ],
-  "8a9d211c35c0cd7b": "Rigogliose risaie terrazzate, sacri templi sull’acqua e spiagge incontaminate fanno di Bali un paradiso tropicale. Ritrova la serenità a Ubud oppure cavalca le onde di Uluwatu.",
-  "95e840bd4cc7cd17": "Bali, Indonesia",
-  "aec703117cb5a895": "Santorini, Grecia",
-  "b2fc84a56f245f5d": "Parigi, Francia",
-  "bfe506884a4a0d04": "Una metropoli abbagliante dove antichi templi sorgono accanto a grattacieli illuminati al neon. Esplora secoli di storia, cucina di livello mondiale e tecnologia all’avanguardia.",
+  "67b4e50f7b4cb2cc": {
+    "c": [
+      {
+        "c": {
+          "i": 3,
+          "k": "_gt_cost_3",
+          "v": "c"
+        },
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "a notte",
+        "i": 4,
+        "t": "span"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "6b78f9e70d57970b": {
+    "c": "Servizi dell'hotel",
+    "i": 1,
+    "t": "h2"
+  },
+  "b879dad12b55f583": {
+    "c": "Tipi di stanza",
+    "i": 1,
+    "t": "h2"
+  },
   "c26d6acd8e1b2aa2": {
     "c": [
       {
@@ -220,14 +321,404 @@
     "i": 1,
     "t": "div"
   },
+  "c6020fc822473569": {
+    "c": [
+      {
+        "c": "Riepilogo costi",
+        "i": 2,
+        "t": "h2"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "i": 5,
+                "k": "_gt_cost_5",
+                "v": "c"
+              },
+              " × ",
+              {
+                "d": {
+                  "b": {
+                    "many": {
+                      "c": [
+                        {
+                          "i": 8,
+                          "k": "_gt_n_8",
+                          "v": "n"
+                        },
+                        " notti"
+                      ],
+                      "i": 7,
+                      "t": "C7"
+                    },
+                    "other": {
+                      "c": [
+                        {
+                          "i": 8,
+                          "k": "_gt_n_8",
+                          "v": "n"
+                        },
+                        " notti"
+                      ],
+                      "i": 7,
+                      "t": "C7"
+                    },
+                    "plural": {
+                      "c": [
+                        {
+                          "i": 8,
+                          "k": "_gt_n_8",
+                          "v": "n"
+                        },
+                        " notti"
+                      ],
+                      "i": 7,
+                      "t": "C7"
+                    },
+                    "singular": {
+                      "c": [
+                        {
+                          "i": 8,
+                          "k": "_gt_n_8",
+                          "v": "n"
+                        },
+                        " notte"
+                      ],
+                      "i": 7,
+                      "t": "C7"
+                    }
+                  },
+                  "t": "p"
+                },
+                "i": 6,
+                "t": "Plural"
+              }
+            ],
+            "i": 4,
+            "t": "span"
+          },
+          {
+            "c": {
+              "i": 8,
+              "k": "_gt_cost_8",
+              "v": "c"
+            },
+            "i": 7,
+            "t": "span"
+          }
+        ],
+        "i": 3,
+        "t": "div"
+      },
+      {
+        "c": [
+          {
+            "c": "Tasse",
+            "i": 10,
+            "t": "span"
+          },
+          {
+            "c": {
+              "i": 12,
+              "k": "_gt_cost_12",
+              "v": "c"
+            },
+            "i": 11,
+            "t": "span"
+          }
+        ],
+        "i": 9,
+        "t": "div"
+      },
+      {
+        "c": [
+          {
+            "c": "Commissioni di servizio",
+            "i": 14,
+            "t": "span"
+          },
+          {
+            "c": {
+              "i": 16,
+              "k": "_gt_cost_16",
+              "v": "c"
+            },
+            "i": 15,
+            "t": "span"
+          }
+        ],
+        "i": 13,
+        "t": "div"
+      },
+      {
+        "c": [
+          {
+            "c": "Totale",
+            "i": 18,
+            "t": "span"
+          },
+          {
+            "c": {
+              "i": 20,
+              "k": "_gt_cost_20",
+              "v": "c"
+            },
+            "i": 19,
+            "t": "span"
+          }
+        ],
+        "i": 17,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "ce379cc68a3a5b6c": {
+    "c": [
+      {
+        "c": "Destinazioni",
+        "i": 2,
+        "t": "a"
+      },
+      {
+        "c": "Chi siamo",
+        "i": 3,
+        "t": "a"
+      }
+    ],
+    "i": 1,
+    "t": "nav"
+  },
+  "d00a867c35108928": [
+    {
+      "c": "Informazioni su questa demo",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "c": "Di cosa si tratta?",
+              "i": 4,
+              "t": "h2"
+            },
+            {
+              "c": "Questa è un'applicazione demo per la prenotazione di viaggi, creata per mostrare le funzionalità di internazionalizzazione di General Translation. Ogni testo, ogni prezzo, ogni data e ogni forma plurale su questo sito viene automaticamente adattata alla tua lingua e alla tua area geografica.",
+              "i": 5,
+              "t": "p"
+            }
+          ],
+          "i": 3,
+          "t": "section"
+        },
+        {
+          "c": [
+            {
+              "c": "Funzionalità GT dimostrate",
+              "i": 7,
+              "t": "h2"
+            },
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "c": [
+                        "<T> component"
+                      ],
+                      "i": 10,
+                      "t": "strong"
+                    },
+                    " — racchiude intere sezioni per la traduzione, preservando la struttura JSX"
+                  ],
+                  "i": 9,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<Currency>",
+                      "i": 12,
+                      "t": "strong"
+                    },
+                    " — formattazione della valuta in base alla lingua, con adattamento di simboli e posizionamento"
+                  ],
+                  "i": 11,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<DateTime>",
+                      "i": 14,
+                      "t": "strong"
+                    },
+                    " — date formattate secondo le convenzioni regionali"
+                  ],
+                  "i": 13,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<Plural>",
+                      "i": 16,
+                      "t": "strong"
+                    },
+                    " — forme singolare e plurale grammaticalmente corrette"
+                  ],
+                  "i": 15,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<Num>",
+                      "i": 18,
+                      "t": "strong"
+                    },
+                    " — formattazione dei numeri con separatori appropriati alla lingua"
+                  ],
+                  "i": 17,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "getGT()",
+                      "i": 20,
+                      "t": "strong"
+                    },
+                    " — traduzione lato server per metadati, testo alternativo e stringhe dinamiche"
+                  ],
+                  "i": 19,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "Locale routing",
+                      "i": 22,
+                      "t": "strong"
+                    },
+                    " — rilevamento automatico della lingua e cambio lingua tramite URL"
+                  ],
+                  "i": 21,
+                  "t": "li"
+                }
+              ],
+              "i": 8,
+              "t": "ul"
+            }
+          ],
+          "i": 6,
+          "t": "section"
+        },
+        {
+          "c": [
+            {
+              "c": "Ulteriori informazioni",
+              "i": 24,
+              "t": "h2"
+            },
+            {
+              "c": "Esplora la documentazione e le risorse di General Translation:",
+              "i": 25,
+              "t": "p"
+            },
+            {
+              "c": [
+                {
+                  "c": "Documentazione →",
+                  "i": 27,
+                  "t": "a"
+                },
+                {
+                  "c": "Codice sorgente →",
+                  "i": 28,
+                  "t": "a"
+                },
+                {
+                  "c": "General Translation →",
+                  "i": 29,
+                  "t": "a"
+                }
+              ],
+              "i": 26,
+              "t": "div"
+            }
+          ],
+          "i": 23,
+          "t": "section"
+        },
+        {
+          "c": [
+            {
+              "c": "⚠️ Avvertenza",
+              "i": 31,
+              "t": "h2"
+            },
+            {
+              "c": "Questa è un'applicazione dimostrativa. Non vengono elaborate prenotazioni reali, non vengono effettuati pagamenti e non vengono forniti servizi di viaggio. Tutte le destinazioni, i prezzi, le recensioni e le disponibilità mostrate sono fittizie e utilizzate esclusivamente per illustrare le funzionalità di internazionalizzazione.",
+              "i": 32,
+              "t": "p"
+            }
+          ],
+          "i": 30,
+          "t": "section"
+        }
+      ],
+      "i": 2,
+      "t": "div"
+    }
+  ],
   "d020aa82dd871c46": {
     "c": "Realizzato con General Translation per dimostrare la formattazione in base alla lingua di prezzi, date e plurali.",
     "i": 1,
     "t": "p"
   },
-  "d5d92191426ff1a8": "Prenotazioni di viaggio | Traduzione generale",
-  "d88fbba24b94901e": "Scopri e prenota destinazioni indimenticabili con prezzi, date e conteggi ospiti localizzati per lingua e area geografica.",
-  "e0a695de2a4193c8": "La Ville Lumière ti attira con i suoi monumenti iconici, musei di fama mondiale e una cultura dei café che trasforma ogni pasto in un’occasione speciale.",
-  "e5ea8b399db2f5b1": "New York, USA",
-  "f8dc62e5d2534f50": "Kyoto, Giappone"
+  "d5d92191426ff1a8": "Prenotazione viaggi | Traduzione generale",
+  "d88fbba24b94901e": "Scopri e prenota destinazioni indimenticabili con prezzi, date e conteggio degli ospiti ottimizzati in base al locale (lingua e area geografica).",
+  "e81ae7619109348a": {
+    "c": [
+      {
+        "c": {
+          "c": {
+            "i": 4,
+            "t": "path"
+          },
+          "i": 3,
+          "t": "svg"
+        },
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Prenotazione confermata!",
+        "i": 5,
+        "t": "h1"
+      },
+      {
+        "c": "La tua prenotazione è stata elaborata con successo.",
+        "i": 6,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "e81da10f0f5e59af": {
+    "c": {
+      "i": 2,
+      "k": "_gt_date_2",
+      "v": "d"
+    },
+    "i": 1,
+    "t": "span"
+  }
 }

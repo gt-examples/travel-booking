@@ -1,5 +1,4 @@
 {
-  "07351425e8098488": "Die Stadt, die niemals schläft, bietet Broadway-Shows, erstklassige Gastronomie und ikonische Sehenswürdigkeiten – von Central Park bis zur Freiheitsstatue.",
   "0ad2e23bbec0da99": {
     "c": [
       {
@@ -8,6 +7,76 @@
         "v": "n"
       },
       " (",
+      {
+        "d": {
+          "b": {
+            "other": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " Rezensionen"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "plural": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " Rezensionen"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "singular": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " Überprüfung"
+              ],
+              "i": 4,
+              "t": "C4"
+            }
+          },
+          "t": "p"
+        },
+        "i": 3,
+        "t": "Plural"
+      },
+      ")"
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "0c730b7f189776b6": "Auf GitHub ansehen",
+  "1459707b85024244": {
+    "c": "Gästebewertungen",
+    "i": 1,
+    "t": "h2"
+  },
+  "1f72a2b02004431b": "Reisebuchung",
+  "23d34114b6f1b4dd": {
+    "c": "Zurück zu den Zielen",
+    "i": 1,
+    "t": "a"
+  },
+  "4899278a5f59fac4": {
+    "c": [
+      {
+        "i": 2,
+        "k": "_gt_n_2",
+        "v": "n"
+      },
+      " — ",
       {
         "d": {
           "b": {
@@ -52,15 +121,11 @@
         },
         "i": 3,
         "t": "Plural"
-      },
-      ")"
+      }
     ],
     "i": 1,
     "t": "span"
   },
-  "141628177c47e517": "Weißgetünchte Dörfer auf Vulkanklippen mit Blick auf die Ägäis. Legendäre Sonnenuntergänge, lokale Weine und mediterraner Charme an jeder Ecke.",
-  "1f72a2b02004431b": "Reise buchen",
-  "41d504ebedc89299": "Das kulturelle Herz Japans mit mehr als zweitausend Tempeln und Schreinen. Schlendere durch Bambushaine, nimm an einer Teezeremonie teil und tauche ein in die Welt der Geishas.",
   "54db4f89c8684d04": [
     {
       "c": "Entdecke dein nächstes Reiseziel",
@@ -68,7 +133,7 @@
       "t": "h2"
     },
     {
-      "c": "Stöbere in handverlesenen Hotels und Flügen weltweit. Preise, Daten und Details passen sich automatisch an deine Sprache und Region an.",
+      "c": "Stöbere in handverlesenen Hotels und Flügen aus aller Welt. Preise, Daten und Details passen sich automatisch an deine Sprache und Region an.",
       "i": 2,
       "t": "p"
     }
@@ -132,7 +197,6 @@
     "i": 1,
     "t": "div"
   },
-  "58bec0a5a88d5b95": "Tokio, Japan",
   "62b3af8d7befdc26": [
     {
       "c": [
@@ -157,14 +221,39 @@
     {
       "c": "Jetzt buchen",
       "i": 5,
-      "t": "button"
+      "t": "span"
     }
   ],
-  "8a9d211c35c0cd7b": "Üppige Reisterrassen, heilige Wassertempel und unberührte Strände machen Bali zu einem Inselparadies. Finde Ruhe in Ubud oder surfe auf den Wellen vor Uluwatu.",
-  "95e840bd4cc7cd17": "Bali, Indonesien",
-  "aec703117cb5a895": "Santorin, Griechenland",
-  "b2fc84a56f245f5d": "Paris, Frankreich",
-  "bfe506884a4a0d04": "Eine glitzernde Metropole, in der alte Tempel neben neonbeleuchteten Wolkenkratzern stehen. Erkunde Jahrhunderte Geschichte, Spitzenküche und modernste Technologie.",
+  "67b4e50f7b4cb2cc": {
+    "c": [
+      {
+        "c": {
+          "i": 3,
+          "k": "_gt_cost_3",
+          "v": "c"
+        },
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "pro Nacht",
+        "i": 4,
+        "t": "span"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "6b78f9e70d57970b": {
+    "c": "Hotelausstattung",
+    "i": 1,
+    "t": "h2"
+  },
+  "b879dad12b55f583": {
+    "c": "Zimmertypen",
+    "i": 1,
+    "t": "h2"
+  },
   "c26d6acd8e1b2aa2": {
     "c": [
       {
@@ -196,14 +285,392 @@
     "i": 1,
     "t": "div"
   },
+  "c6020fc822473569": {
+    "c": [
+      {
+        "c": "Kostenaufschlüsselung",
+        "i": 2,
+        "t": "h2"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "i": 5,
+                "k": "_gt_cost_5",
+                "v": "c"
+              },
+              " × ",
+              {
+                "d": {
+                  "b": {
+                    "other": {
+                      "c": [
+                        {
+                          "i": 8,
+                          "k": "_gt_n_8",
+                          "v": "n"
+                        },
+                        " Nächte"
+                      ],
+                      "i": 7,
+                      "t": "C7"
+                    },
+                    "plural": {
+                      "c": [
+                        {
+                          "i": 8,
+                          "k": "_gt_n_8",
+                          "v": "n"
+                        },
+                        " Nächte"
+                      ],
+                      "i": 7,
+                      "t": "C7"
+                    },
+                    "singular": {
+                      "c": [
+                        {
+                          "i": 8,
+                          "k": "_gt_n_8",
+                          "v": "n"
+                        },
+                        " Nacht"
+                      ],
+                      "i": 7,
+                      "t": "C7"
+                    }
+                  },
+                  "t": "p"
+                },
+                "i": 6,
+                "t": "Plural"
+              }
+            ],
+            "i": 4,
+            "t": "span"
+          },
+          {
+            "c": {
+              "i": 8,
+              "k": "_gt_cost_8",
+              "v": "c"
+            },
+            "i": 7,
+            "t": "span"
+          }
+        ],
+        "i": 3,
+        "t": "div"
+      },
+      {
+        "c": [
+          {
+            "c": "Steuern",
+            "i": 10,
+            "t": "span"
+          },
+          {
+            "c": {
+              "i": 12,
+              "k": "_gt_cost_12",
+              "v": "c"
+            },
+            "i": 11,
+            "t": "span"
+          }
+        ],
+        "i": 9,
+        "t": "div"
+      },
+      {
+        "c": [
+          {
+            "c": "Servicegebühren",
+            "i": 14,
+            "t": "span"
+          },
+          {
+            "c": {
+              "i": 16,
+              "k": "_gt_cost_16",
+              "v": "c"
+            },
+            "i": 15,
+            "t": "span"
+          }
+        ],
+        "i": 13,
+        "t": "div"
+      },
+      {
+        "c": [
+          {
+            "c": "Gesamt",
+            "i": 18,
+            "t": "span"
+          },
+          {
+            "c": {
+              "i": 20,
+              "k": "_gt_cost_20",
+              "v": "c"
+            },
+            "i": 19,
+            "t": "span"
+          }
+        ],
+        "i": 17,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "ce379cc68a3a5b6c": {
+    "c": [
+      {
+        "c": "Reiseziele",
+        "i": 2,
+        "t": "a"
+      },
+      {
+        "c": "Über uns",
+        "i": 3,
+        "t": "a"
+      }
+    ],
+    "i": 1,
+    "t": "nav"
+  },
+  "d00a867c35108928": [
+    {
+      "c": "Über diese Demo",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "c": "Was ist das?",
+              "i": 4,
+              "t": "h2"
+            },
+            {
+              "c": "Dies ist eine Demo-Reisebuchungsanwendung, die entwickelt wurde, um die Internationalisierungsfunktionen von General Translation zu präsentieren. Jeder Text, jeder Preis, jedes Datum und jede Pluralform auf dieser Website wird automatisch an Ihre Sprache und Region angepasst.",
+              "i": 5,
+              "t": "p"
+            }
+          ],
+          "i": 3,
+          "t": "section"
+        },
+        {
+          "c": [
+            {
+              "c": "Gezeigte GT-Funktionen",
+              "i": 7,
+              "t": "h2"
+            },
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "c": [
+                        "<T> component"
+                      ],
+                      "i": 10,
+                      "t": "strong"
+                    },
+                    " — umschließt ganze Abschnitte zur Übersetzung und bewahrt die JSX-Struktur"
+                  ],
+                  "i": 9,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<Currency>",
+                      "i": 12,
+                      "t": "strong"
+                    },
+                    " — gebietsschemabewusste Währungsformatierung, die Symbole und Platzierung anpasst"
+                  ],
+                  "i": 11,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<DateTime>",
+                      "i": 14,
+                      "t": "strong"
+                    },
+                    " — Datumsangaben nach regionalen Konventionen formatiert"
+                  ],
+                  "i": 13,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<Plural>",
+                      "i": 16,
+                      "t": "strong"
+                    },
+                    " — grammatikalisch korrekte Singular- und Pluralformen"
+                  ],
+                  "i": 15,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<Num>",
+                      "i": 18,
+                      "t": "strong"
+                    },
+                    " — Zahlenformatierung mit gebietsschemagerechten Trennzeichen"
+                  ],
+                  "i": 17,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "getGT()",
+                      "i": 20,
+                      "t": "strong"
+                    },
+                    " — serverseitige Übersetzung für Metadaten, Alt-Texte und dynamische Zeichenketten"
+                  ],
+                  "i": 19,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "Locale routing",
+                      "i": 22,
+                      "t": "strong"
+                    },
+                    " — automatische Gebietsschemerkennung und URL-basierter Sprachwechsel"
+                  ],
+                  "i": 21,
+                  "t": "li"
+                }
+              ],
+              "i": 8,
+              "t": "ul"
+            }
+          ],
+          "i": 6,
+          "t": "section"
+        },
+        {
+          "c": [
+            {
+              "c": "Mehr erfahren",
+              "i": 24,
+              "t": "h2"
+            },
+            {
+              "c": "Erkunden Sie die Dokumentation und Ressourcen von General Translation:",
+              "i": 25,
+              "t": "p"
+            },
+            {
+              "c": [
+                {
+                  "c": "Dokumentation →",
+                  "i": 27,
+                  "t": "a"
+                },
+                {
+                  "c": "Quellcode →",
+                  "i": 28,
+                  "t": "a"
+                },
+                {
+                  "c": "General Translation →",
+                  "i": 29,
+                  "t": "a"
+                }
+              ],
+              "i": 26,
+              "t": "div"
+            }
+          ],
+          "i": 23,
+          "t": "section"
+        },
+        {
+          "c": [
+            {
+              "c": "⚠️ Haftungsausschluss",
+              "i": 31,
+              "t": "h2"
+            },
+            {
+              "c": "Dies ist eine Demoanwendung. Es werden keine echten Buchungen verarbeitet, keine Zahlungen eingezogen und keine Reisedienstleistungen erbracht. Alle dargestellten Reiseziele, Preise, Bewertungen und Verfügbarkeiten sind fiktiv und dienen ausschließlich der Veranschaulichung von Internationalisierungsfunktionen.",
+              "i": 32,
+              "t": "p"
+            }
+          ],
+          "i": 30,
+          "t": "section"
+        }
+      ],
+      "i": 2,
+      "t": "div"
+    }
+  ],
   "d020aa82dd871c46": {
-    "c": "Erstellt mit General Translation, um die gebietsschemabezogene Formatierung von Preisen, Datumsangaben und Pluralformen zu demonstrieren.",
+    "c": "Erstellt mit General Translation, um die gebietsschemabewusste Formatierung von Preisen, Datumsangaben und Pluralformen zu demonstrieren.",
     "i": 1,
     "t": "p"
   },
   "d5d92191426ff1a8": "Reisebuchung | Allgemeine Übersetzung",
-  "d88fbba24b94901e": "Entdecke und buche unvergessliche Reiseziele mit sprachabhängigen Preisen, Datumsangaben und Gästeanzahl.",
-  "e0a695de2a4193c8": "Die Stadt der Lichter lockt mit ikonischen Wahrzeichen, weltberühmten Museen und einer Café-Kultur, die jede Mahlzeit zu etwas Besonderem macht.",
-  "e5ea8b399db2f5b1": "New York, USA",
-  "f8dc62e5d2534f50": "Kyoto, Japan"
+  "d88fbba24b94901e": "Entdecke und buche unvergessliche Reiseziele mit Preisen, Datumsangaben und Gästeanzahl, die sich nach Sprache und Region richten.",
+  "e81ae7619109348a": {
+    "c": [
+      {
+        "c": {
+          "c": {
+            "i": 4,
+            "t": "path"
+          },
+          "i": 3,
+          "t": "svg"
+        },
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Buchung bestätigt!",
+        "i": 5,
+        "t": "h1"
+      },
+      {
+        "c": "Ihre Reservierung wurde erfolgreich bearbeitet.",
+        "i": 6,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "e81da10f0f5e59af": {
+    "c": {
+      "i": 2,
+      "k": "_gt_date_2",
+      "v": "d"
+    },
+    "i": 1,
+    "t": "span"
+  }
 }

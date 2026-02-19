@@ -86,6 +86,48 @@
             "updatedAt": "2026-02-19T05:56:27.680Z",
             "postProcessHash": "677389daf236d9423d9953534615260b1fdf3a3bb5b10a54b3acafb70354b4eb"
           }
+        },
+        "0d573ecec95fe958cafdc76fedafbbb2aba73f7c2c3a91e5ce08e11399fd1b7f": {
+          "ar": {
+            "updatedAt": "2026-02-19T06:05:11.877Z",
+            "postProcessHash": "0e0b888e76ebcae23d96d130c448de116bfc201fe227f6df6c7b9b317d3c2baa"
+          },
+          "de": {
+            "updatedAt": "2026-02-19T06:05:11.880Z",
+            "postProcessHash": "0da21e19b503764357d34aee4904f45a8cbbed07160afc33d54e039afa98b956"
+          },
+          "es": {
+            "updatedAt": "2026-02-19T06:05:11.881Z",
+            "postProcessHash": "fc02bf1e3509d8c899f05678b028b9114649ca4ff8e800c2d0da11434d20ee1a"
+          },
+          "fr": {
+            "updatedAt": "2026-02-19T06:05:11.883Z",
+            "postProcessHash": "d89b73b7b4f4580749a18768020ada258331b0b954c9cc6bdb9b29e40aa54f1c"
+          },
+          "hi": {
+            "updatedAt": "2026-02-19T06:05:11.885Z",
+            "postProcessHash": "3522190cbb4984b2d07ce72c9819af5de310ab9adb7763f2fb2f00afeac1d580"
+          },
+          "it": {
+            "updatedAt": "2026-02-19T06:05:11.886Z",
+            "postProcessHash": "08a45815bb731ae941f4573bca18cc09dbd47686b6fac95ed67c03c8dcbc4a5f"
+          },
+          "ja": {
+            "updatedAt": "2026-02-19T06:05:11.888Z",
+            "postProcessHash": "4dc697af5a2479880484511f58eff212426028a791debf36db479a8f26b914e2"
+          },
+          "ko": {
+            "updatedAt": "2026-02-19T06:05:11.890Z",
+            "postProcessHash": "1504ffbfd686e37721ea2420068391184de41e58c071ef5a707cbf84943d65a9"
+          },
+          "pt-BR": {
+            "updatedAt": "2026-02-19T06:05:11.891Z",
+            "postProcessHash": "398a242af55a6b14a5982935d1bc7938e22761754f1b818dbe68b6b5c5e5a1f9"
+          },
+          "zh": {
+            "updatedAt": "2026-02-19T06:05:11.892Z",
+            "postProcessHash": "76d535b34ee3a499067136e0d0cfe6c690685a301280abcbef85b85a17247c1a"
+          }
         }
       }
     }

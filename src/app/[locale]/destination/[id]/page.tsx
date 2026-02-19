@@ -1,18 +1,31 @@
 import { T, Num, Currency, DateTime, Plural } from "gt-next";
-import { getGT } from "gt-next/server";
 import { notFound } from "next/navigation";
 import { destinations, getDestination } from "@/data/destinations";
+import { getTranslatedStrings } from "@/data/translated";
 import Header from "@/components/Header";
 import StarRating from "@/components/StarRating";
 
-const amenityLabels: Record<string, { icon: string; label: string }> = {
-  wifi: { icon: "📶", label: "Free Wi-Fi" },
-  pool: { icon: "🏊", label: "Swimming Pool" },
-  spa: { icon: "💆", label: "Spa & Wellness" },
-  restaurant: { icon: "🍽️", label: "Restaurant" },
-  gym: { icon: "🏋️", label: "Fitness Center" },
-  "airport-shuttle": { icon: "🚐", label: "Airport Shuttle" },
+const amenityIcons: Record<string, string> = {
+  wifi: "📶",
+  pool: "🏊",
+  spa: "💆",
+  restaurant: "🍽️",
+  gym: "🏋️",
+  "airport-shuttle": "🚐",
 };
+
+const amenityKeys: Record<string, string> = {
+  wifi: "Free Wi-Fi",
+  pool: "Swimming Pool",
+  spa: "Spa & Wellness",
+  restaurant: "Restaurant",
+  gym: "Fitness Center",
+  "airport-shuttle": "Airport Shuttle",
+};
+
+export async function generateStaticParams() {
+  return destinations.map((d) => ({ id: d.id }));
+}
 
 export default async function DestinationPage({
   params,
@@ -23,7 +36,7 @@ export default async function DestinationPage({
   const dest = getDestination(id);
   if (!dest) notFound();
 
-  const gt = await getGT();
+  const t = await getTranslatedStrings();
   const nights = Math.round(
     (dest.checkOut.getTime() - dest.checkIn.getTime()) / (1000 * 60 * 60 * 24)
   );
@@ -36,17 +49,15 @@ export default async function DestinationPage({
       <div className="relative h-72 md:h-96 overflow-hidden">
         <img
           src={dest.heroImage}
-          alt={gt(dest.name)}
+          alt={t[dest.name] ?? dest.name}
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-neutral-950 via-neutral-950/40 to-transparent" />
         <div className="absolute bottom-0 left-0 right-0 max-w-6xl mx-auto px-6 pb-8">
-          <T>
-            <h1 className="text-3xl md:text-4xl font-bold text-white mb-2">
-              {gt(dest.name)}
-            </h1>
-            <p className="text-neutral-300 text-sm">{gt(dest.location)}</p>
-          </T>
+          <h1 className="text-3xl md:text-4xl font-bold text-white mb-2">
+            {t[dest.name] ?? dest.name}
+          </h1>
+          <p className="text-neutral-300 text-sm">{t[dest.location] ?? dest.location}</p>
         </div>
       </div>
 
@@ -60,10 +71,10 @@ export default async function DestinationPage({
                 <h2 className="text-xl font-semibold text-neutral-100 mb-4">
                   About this destination
                 </h2>
-                <p className="text-neutral-400 leading-relaxed">
-                  {gt(dest.longDesc)}
-                </p>
               </T>
+              <p className="text-neutral-400 leading-relaxed">
+                {t[dest.longDesc] ?? dest.longDesc}
+              </p>
               <div className="flex items-center gap-2 mt-4">
                 <StarRating rating={dest.stars} />
                 <T>
@@ -86,20 +97,17 @@ export default async function DestinationPage({
                 </h2>
               </T>
               <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
-                {dest.amenities.map((a) => {
-                  const info = amenityLabels[a];
-                  return (
-                    <div
-                      key={a}
-                      className="flex items-center gap-3 bg-neutral-900 border border-neutral-800 rounded-lg p-3"
-                    >
-                      <span className="text-xl">{info?.icon}</span>
-                      <span className="text-sm text-neutral-300">
-                        {gt(info?.label ?? a)}
-                      </span>
-                    </div>
-                  );
-                })}
+                {dest.amenities.map((a) => (
+                  <div
+                    key={a}
+                    className="flex items-center gap-3 bg-neutral-900 border border-neutral-800 rounded-lg p-3"
+                  >
+                    <span className="text-xl">{amenityIcons[a]}</span>
+                    <span className="text-sm text-neutral-300">
+                      {t[amenityKeys[a]] ?? amenityKeys[a]}
+                    </span>
+                  </div>
+                ))}
               </div>
             </section>
 
@@ -118,10 +126,10 @@ export default async function DestinationPage({
                   >
                     <div>
                       <h3 className="font-medium text-neutral-100">
-                        {gt(room.type)}
+                        {t[room.type] ?? room.type}
                       </h3>
                       <p className="text-sm text-neutral-500 mt-1">
-                        {gt(room.desc)}
+                        {t[room.desc] ?? room.desc}
                       </p>
                     </div>
                     <T>
@@ -171,7 +179,7 @@ export default async function DestinationPage({
                       <StarRating rating={review.rating} />
                     </div>
                     <p className="text-sm text-neutral-400 leading-relaxed">
-                      {gt(review.text)}
+                      {t[review.text] ?? review.text}
                     </p>
                   </div>
                 ))}
@@ -186,15 +194,17 @@ export default async function DestinationPage({
                 <h3 className="text-lg font-semibold text-neutral-100">
                   Book your stay
                 </h3>
+              </T>
 
-                <div className="space-y-4">
+              <div className="space-y-4">
+                <T>
                   <div>
                     <label className="block text-sm text-neutral-400 mb-1">
                       Check-in
                     </label>
                     <input
                       type="date"
-                      defaultValue="2026-04-15"
+                      defaultValue={dest.checkIn.toISOString().split("T")[0]}
                       className="w-full bg-neutral-800 border border-neutral-700 rounded-md px-3 py-2 text-sm text-neutral-200 focus:outline-none focus:border-neutral-600"
                     />
                   </div>
@@ -204,7 +214,7 @@ export default async function DestinationPage({
                     </label>
                     <input
                       type="date"
-                      defaultValue="2026-04-22"
+                      defaultValue={dest.checkOut.toISOString().split("T")[0]}
                       className="w-full bg-neutral-800 border border-neutral-700 rounded-md px-3 py-2 text-sm text-neutral-200 focus:outline-none focus:border-neutral-600"
                     />
                   </div>
@@ -219,21 +229,25 @@ export default async function DestinationPage({
                       <option>4</option>
                     </select>
                   </div>
+                </T>
+                <T>
                   <div>
                     <label className="block text-sm text-neutral-400 mb-1">
                       Room type
                     </label>
-                    <select className="w-full bg-neutral-800 border border-neutral-700 rounded-md px-3 py-2 text-sm text-neutral-200 focus:outline-none focus:border-neutral-600">
-                      {dest.rooms.map((r) => (
-                        <option key={r.type} value={r.type}>
-                          {gt(r.type)}
-                        </option>
-                      ))}
-                    </select>
                   </div>
-                </div>
+                </T>
+                <select className="w-full bg-neutral-800 border border-neutral-700 rounded-md px-3 py-2 text-sm text-neutral-200 focus:outline-none focus:border-neutral-600 -mt-3">
+                  {dest.rooms.map((r) => (
+                    <option key={r.type} value={r.type}>
+                      {t[r.type] ?? r.type}
+                    </option>
+                  ))}
+                </select>
+              </div>
 
-                <div className="border-t border-neutral-800 pt-4 space-y-2">
+              <T>
+                <div className="border-t border-neutral-800 pt-4 space-y-2 mt-5">
                   <div className="flex justify-between text-sm text-neutral-400">
                     <span>
                       <Currency currency="USD">{dest.price}</Currency> × <Plural
@@ -268,7 +282,7 @@ export default async function DestinationPage({
 
                 <a
                   href={`/confirmation?dest=${dest.id}`}
-                  className="block w-full text-center px-4 py-3 bg-neutral-100 text-neutral-900 text-sm font-medium rounded-md hover:bg-white transition-colors"
+                  className="block w-full text-center px-4 py-3 mt-5 bg-neutral-100 text-neutral-900 text-sm font-medium rounded-md hover:bg-white transition-colors"
                 >
                   Book now
                 </a>
@@ -277,6 +291,15 @@ export default async function DestinationPage({
           </div>
         </div>
       </div>
+
+      {/* Disclaimer */}
+      <section className="max-w-6xl mx-auto px-6 pb-8">
+        <T>
+          <p className="text-xs text-neutral-600 text-center">
+            This is an example application built with General Translation to demonstrate internationalization. No real bookings are processed.
+          </p>
+        </T>
+      </section>
 
       {/* Footer */}
       <footer className="border-t border-neutral-800 bg-neutral-950">

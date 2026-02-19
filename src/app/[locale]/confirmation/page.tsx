@@ -1,6 +1,6 @@
-import { T, Currency, DateTime, Num, Plural } from "gt-next";
-import { getGT } from "gt-next/server";
+import { T, Currency, DateTime, Num, Plural, Var } from "gt-next";
 import { getDestination, destinations } from "@/data/destinations";
+import { getTranslatedStrings } from "@/data/translated";
 import Header from "@/components/Header";
 
 export default async function ConfirmationPage({
@@ -8,7 +8,7 @@ export default async function ConfirmationPage({
 }: {
   searchParams: Promise<{ dest?: string }>;
 }) {
-  const gt = await getGT();
+  const t = await getTranslatedStrings();
   const { dest: destId } = await searchParams;
   const dest = getDestination(destId ?? "") ?? destinations[0];
   const nights = Math.round(
@@ -48,7 +48,7 @@ export default async function ConfirmationPage({
                 Confirmation number
               </span>
               <div className="text-xl font-mono font-bold text-neutral-100 mt-1">
-                {confirmationNumber}
+                <Var>{confirmationNumber}</Var>
               </div>
             </div>
           </T>
@@ -62,11 +62,11 @@ export default async function ConfirmationPage({
               <div className="grid grid-cols-2 gap-3 text-sm">
                 <div>
                   <span className="text-neutral-500">Destination</span>
-                  <div className="text-neutral-200 font-medium">{gt(dest.name)}</div>
+                  <div className="text-neutral-200 font-medium"><Var>{t[dest.name] ?? dest.name}</Var></div>
                 </div>
                 <div>
                   <span className="text-neutral-500">Room type</span>
-                  <div className="text-neutral-200 font-medium">{gt(dest.rooms[0].type)}</div>
+                  <div className="text-neutral-200 font-medium"><Var>{t[dest.rooms[0].type] ?? dest.rooms[0].type}</Var></div>
                 </div>
                 <div>
                   <span className="text-neutral-500">Check-in</span>
@@ -136,16 +136,20 @@ export default async function ConfirmationPage({
           </T>
         </div>
 
-        <div className="mt-8 text-center">
-          <T>
+        <T>
+          <div className="mt-8 text-center">
             <a
               href="/"
               className="inline-block px-6 py-3 bg-neutral-100 text-neutral-900 text-sm font-medium rounded-md hover:bg-white transition-colors"
             >
               Back to destinations
             </a>
-          </T>
-        </div>
+          </div>
+
+          <p className="text-xs text-neutral-600 text-center mt-6">
+            This is an example application built with General Translation to demonstrate internationalization. No real bookings are processed.
+          </p>
+        </T>
       </div>
 
       <footer className="border-t border-neutral-800 bg-neutral-950">

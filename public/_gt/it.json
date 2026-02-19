@@ -1,4 +1,6 @@
 {
+  "073433fd1922bc4a": "Tutto perfetto. Il trattamento alla spa dopo una lunga giornata di visite è stato paradisiaco.",
+  "07351425e8098488": "La città che non dorme mai offre spettacoli di Broadway, ristoranti di fama mondiale e monumenti iconici, da Central Park alla Statua della Libertà.",
   "0ad2e23bbec0da99": {
     "c": [
       {
@@ -70,17 +72,36 @@
     "t": "span"
   },
   "0c730b7f189776b6": "Visualizza su GitHub",
+  "0d4a68b41445f1cb": "Magnifico! La posizione nel Marais era perfetta per esplorare la città a piedi.",
+  "0dff33146fdc5e43": "Soggiorno davvero piacevole nel complesso. La camera era impeccabile e il ristorante al piano terra aveva una pasta strepitosa.",
+  "0f8d782dea15615a": {
+    "c": "Informazioni su questa destinazione",
+    "i": 1,
+    "t": "h2"
+  },
+  "11afc46409baa148": {
+    "c": "Questa è un'applicazione di esempio creata con General Translation per dimostrare l'internazionalizzazione. Non vengono elaborate prenotazioni reali.",
+    "i": 1,
+    "t": "p"
+  },
+  "129e78fb17d4f85c": "Suite executive con salotto separato e vista su Central Park.",
+  "141628177c47e517": "Villaggi imbiancati a calce arroccati su scogliere vulcaniche affacciate sul Mar Egeo. Tramonti leggendari, vini locali e fascino mediterraneo a ogni passo.",
   "1459707b85024244": {
     "c": "Recensioni degli ospiti",
     "i": 1,
     "t": "h2"
   },
+  "193a2cb1fbff4551": "Accogliente camera parigina con arredi classici.",
+  "194673110657ec21": "Accogliente camera in stile grotta con vista sulla caldera.",
+  "1e85b160de42744c": "Servizio eccezionale e panorami ancora più belli che in foto. Tornerò sicuramente!",
   "1f72a2b02004431b": "Prenotazione viaggi",
-  "23d34114b6f1b4dd": {
-    "c": "Torna alle destinazioni",
-    "i": 1,
-    "t": "a"
-  },
+  "20e092e5927e29bd": "New York City pulsa di un’energia unica al mondo. Assisti a uno spettacolo di Broadway nel Theater District, passeggia per Central Park e ammira lo skyline dalla terrazza panoramica del Top of the Rock. Esplora musei di livello mondiale come il Met e il MoMA, assaggia cucine da tutto il mondo e scopri i quartieri — dalle strade acciottolate di SoHo al brulichio di Times Square — ognuno con una personalità distinta.",
+  "25738eaf6c68622f": "Ampia camera con vista sulla Torre Eiffel.",
+  "35fe9b78d7abb7db": "Villa con piscina privata immersa in una rigogliosa giungla.",
+  "38c78191be2475c7": "Camera confortevole con vista sulla città e servizi moderni.",
+  "41d504ebedc89299": "Il cuore culturale del Giappone, con oltre duemila templi e santuari. Passeggia tra le foreste di bambù, partecipa a una cerimonia del tè e scopri la tradizione delle geisha.",
+  "421193b305b7ca85": "Elegante camera con terrazza privata e accesso alla piscina a sfioro.",
+  "47ca1af55e9f2f59": "Ottima posizione vicino alla stazione di Shinjuku. La spa era meravigliosa. L’unico piccolo inconveniente è stato l’ascensore lento durante le ore di punta.",
   "4899278a5f59fac4": {
     "c": [
       {
@@ -150,6 +171,249 @@
     "i": 1,
     "t": "span"
   },
+  "4c28458477b02ae9": "Le Marais, Parigi, Francia",
+  "51d2d585542a9b3c": {
+    "c": [
+      {
+        "c": "Riepilogo del viaggio",
+        "i": 2,
+        "t": "h2"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": "Destinazione",
+                "i": 5,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 7,
+                  "k": "_gt_value_7",
+                  "v": "v"
+                },
+                "i": 6,
+                "t": "div"
+              }
+            ],
+            "i": 4,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Tipo di camera",
+                "i": 9,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 11,
+                  "k": "_gt_value_11",
+                  "v": "v"
+                },
+                "i": 10,
+                "t": "div"
+              }
+            ],
+            "i": 8,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Check-in",
+                "i": 13,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 15,
+                  "k": "_gt_date_15",
+                  "v": "d"
+                },
+                "i": 14,
+                "t": "div"
+              }
+            ],
+            "i": 12,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Check-out",
+                "i": 17,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 19,
+                  "k": "_gt_date_19",
+                  "v": "d"
+                },
+                "i": 18,
+                "t": "div"
+              }
+            ],
+            "i": 16,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Durata",
+                "i": 21,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "d": {
+                    "b": {
+                      "many": {
+                        "c": [
+                          {
+                            "i": 25,
+                            "k": "_gt_n_25",
+                            "v": "n"
+                          },
+                          " notti"
+                        ],
+                        "i": 24,
+                        "t": "C24"
+                      },
+                      "other": {
+                        "c": [
+                          {
+                            "i": 25,
+                            "k": "_gt_n_25",
+                            "v": "n"
+                          },
+                          " notti"
+                        ],
+                        "i": 24,
+                        "t": "C24"
+                      },
+                      "plural": {
+                        "c": [
+                          {
+                            "i": 25,
+                            "k": "_gt_n_25",
+                            "v": "n"
+                          },
+                          " notti"
+                        ],
+                        "i": 24,
+                        "t": "C24"
+                      },
+                      "singular": {
+                        "c": [
+                          {
+                            "i": 25,
+                            "k": "_gt_n_25",
+                            "v": "n"
+                          },
+                          " notte"
+                        ],
+                        "i": 24,
+                        "t": "C24"
+                      }
+                    },
+                    "t": "p"
+                  },
+                  "i": 23,
+                  "t": "Plural"
+                },
+                "i": 22,
+                "t": "div"
+              }
+            ],
+            "i": 20,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Ospiti",
+                "i": 25,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "d": {
+                    "b": {
+                      "many": {
+                        "c": [
+                          {
+                            "i": 29,
+                            "k": "_gt_n_29",
+                            "v": "n"
+                          },
+                          " ospiti"
+                        ],
+                        "i": 28,
+                        "t": "C28"
+                      },
+                      "other": {
+                        "c": [
+                          {
+                            "i": 29,
+                            "k": "_gt_n_29",
+                            "v": "n"
+                          },
+                          " ospiti"
+                        ],
+                        "i": 28,
+                        "t": "C28"
+                      },
+                      "plural": {
+                        "c": [
+                          {
+                            "i": 29,
+                            "k": "_gt_n_29",
+                            "v": "n"
+                          },
+                          " ospiti"
+                        ],
+                        "i": 28,
+                        "t": "C28"
+                      },
+                      "singular": {
+                        "c": [
+                          {
+                            "i": 29,
+                            "k": "_gt_n_29",
+                            "v": "n"
+                          },
+                          " ospite"
+                        ],
+                        "i": 28,
+                        "t": "C28"
+                      }
+                    },
+                    "t": "p"
+                  },
+                  "i": 27,
+                  "t": "Plural"
+                },
+                "i": 26,
+                "t": "div"
+              }
+            ],
+            "i": 24,
+            "t": "div"
+          }
+        ],
+        "i": 3,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "524b7d2745cd5f84": "Camera Superior con bagno onsen privato.",
   "54db4f89c8684d04": [
     {
       "c": "Scopri la tua prossima destinazione",
@@ -162,6 +426,8 @@
       "t": "p"
     }
   ],
+  "57c993f4316824b3": "Higashiyama, Kyoto, Giappone",
+  "5875299ab323703f": "Spa e benessere",
   "589c82771b58d7e3": {
     "c": [
       {
@@ -233,6 +499,10 @@
     "i": 1,
     "t": "div"
   },
+  "58bec0a5a88d5b95": "Tokyo, Giappone",
+  "5b2e6d9b918cda11": "Ristorante",
+  "5bb171e75f0ba2d9": "Tradizionale camera con tatami e vista sul giardino.",
+  "5ce154cbcdd98973": "Suite lussuosa con area soggiorno separata e vista sullo skyline della città.",
   "62b3af8d7befdc26": [
     {
       "c": [
@@ -260,6 +530,8 @@
       "t": "span"
     }
   ],
+  "64724f9ca8a8447c": "Camera d’angolo con finestre a tutta altezza e panorama sulla città.",
+  "64b432bc65622d73": "Il luogo più romantico che abbiamo mai visitato. Il tramonto dalla nostra terrazza è stato indimenticabile.",
   "67b4e50f7b4cb2cc": {
     "c": [
       {
@@ -280,16 +552,126 @@
     "i": 1,
     "t": "div"
   },
+  "684e516076de81fe": "Standard",
   "6b78f9e70d57970b": {
     "c": "Servizi dell'hotel",
     "i": 1,
     "t": "h2"
   },
+  "6d8b96bbbcf89177": "Villa con vista sulle risaie e doccia all’aperto.",
+  "6fc97d991f4f696f": "Soggiorno perfetto dall’inizio alla fine. Il ristorante serviva la migliore tempura che abbia mai mangiato.",
+  "745eee8680d46de2": "Piscina",
+  "7a5fbac255ccfbb0": "Santorini è un gioiello dell’arcipelago delle Cicladi, famosa per le sue spettacolari vedute sulla caldera, le chiese dalle cupole blu e i tramonti che tingono il cielo di sfumature dorate e cremisi. Esplora il villaggio arroccato di Oia, assaggia i vini dei vigneti vulcanici, rilassati sulle particolari spiagge di sabbia rossa e nera e scopri le antiche rovine di Akrotiri. Ogni angolo dell’isola sembra una cartolina.",
+  "7ac1775de06d6cd5": "Struttura stupenda. Il ristorante era eccellente. Vorrei solo che la palestra fosse un po' più grande.",
+  "7b5ea4a9392dd910": "Camera spaziosa con arredi di alta qualità e grandi vetrate panoramiche.",
+  "7d2dbd73933d3cc0": "Bungalow in giardino tropicale con patio privato.",
+  "7fb3fae2d1ab3c59": "Splendido resort nel cuore di Ubud. Le sessioni di yoga all’alba sono state rigeneranti.",
+  "809f487ba35f02ec": [
+    {
+      "c": [
+        {
+          "c": "Check-in",
+          "i": 2,
+          "t": "label"
+        },
+        {
+          "i": 3,
+          "t": "input"
+        }
+      ],
+      "i": 1,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Check-out",
+          "i": 5,
+          "t": "label"
+        },
+        {
+          "i": 6,
+          "t": "input"
+        }
+      ],
+      "i": 4,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Ospiti",
+          "i": 8,
+          "t": "label"
+        },
+        {
+          "c": [
+            {
+              "c": "1",
+              "i": 10,
+              "t": "option"
+            },
+            {
+              "c": "2",
+              "i": 11,
+              "t": "option"
+            },
+            {
+              "c": "3",
+              "i": 12,
+              "t": "option"
+            },
+            {
+              "c": "4",
+              "i": 13,
+              "t": "option"
+            }
+          ],
+          "i": 9,
+          "t": "select"
+        }
+      ],
+      "i": 7,
+      "t": "div"
+    }
+  ],
+  "88d391d4c674df11": "Suite",
+  "8a9d211c35c0cd7b": "Rigogliosi terrazzamenti di riso, sacri templi sull’acqua e spiagge incontaminate fanno di Bali un vero paradiso tropicale. Ritrova la serenità a Ubud oppure cavalca le onde di Uluwatu.",
+  "8c215abc9ef8eb2a": "Hotel delizioso e molto caratteristico. Il concierge ci ha consigliato ristoranti fantastici.",
+  "8dfd4de6656ce0cc": {
+    "c": {
+      "c": "Tipo di stanza",
+      "i": 2,
+      "t": "label"
+    },
+    "i": 1,
+    "t": "div"
+  },
+  "8e3a8e45af9fa34e": "Hotel semplicemente stupendo! La vista dalla nostra camera era mozzafiato e lo staff ha superato ogni aspettativa.",
+  "90808408ea1589e7": "La migliore esperienza in hotel a New York! Il concierge è riuscito a procurarci biglietti per Broadway che sembravano introvabili.",
+  "932d6824340e9b79": "Il soggiorno più autentico che abbia mai fatto in Giappone. Svegliarsi al suono delle campane del tempio è stato surreale.",
+  "932df80e22651028": "Un vero paradiso! La villa con piscina privata ha superato ogni aspettativa. Lo staff ci ha trattato come se fossimo di famiglia.",
+  "95e840bd4cc7cd17": "Bali, Indonesia",
+  "97392be497b5890d": "Ottima posizione a Midtown, a pochi passi da tutto. Il bar panoramico sul tetto era fantastico.",
+  "974f2146399732f3": "Colazione ottima e letti comodissimi. Un po’ rumoroso la notte, ma ne vale la pena per la posizione.",
+  "99ff947e8cb02d78": "Midtown Manhattan, New York, USA",
+  "9c36a0af5038e1eb": "Servizio navetta per l’aeroporto",
+  "9f10067a658f037c": "Oia, Santorini, Grecia",
+  "a2e47bf352be557f": "Ampia suite con balcone e servizi di lusso.",
+  "abbf3a53f8a75564": "Kyoto è il luogo dove risiede l’anima del Giappone. Cammina sotto i caratteristici torii vermigli di Fushimi Inari, perditi nell’eterea foresta di bambù di Arashiyama e trova la pace nei giardini zen di rocce di Ryoan-ji. Ogni stagione trasforma la città: i ciliegi in fiore in primavera e gli aceri fiammeggianti in autunno. I tradizionali ryokan, la cucina kaiseki e l’arte della cerimonia del tè ti attendono.",
+  "aca845e010d27187": "Centro fitness",
+  "aec703117cb5a895": "Santorini, Grecia",
+  "b219cd3ec0f247be": "Suite romantica con piscina privata e vista sul tramonto.",
+  "b2fc84a56f245f5d": "Parigi, Francia",
+  "b301ff0ba11eaa20": "Struttura bellissima con servizi di alto livello. L’area della piscina è stata una piacevole sorpresa per un hotel in città.",
+  "b39d2a09c5dec6f6": "Bali incanta i visitatori con la sua energia spirituale e la sua bellezza naturale. Fai trekking tra le risaie verde smeraldo di Tegallalang, assisti a una tradizionale danza Kecak al tramonto e purifica il tuo spirito nel sacro tempio di Tirta Empul. Dall’anima artistica di Ubud ai beach club di Seminyak, Bali offre un ricco mosaico di esperienze: ritiri di yoga, surf di livello mondiale e una cucina che sorprende a ogni pasto.",
   "b879dad12b55f583": {
     "c": "Tipi di stanza",
     "i": 1,
     "t": "h2"
   },
+  "bfbd9bce214e5b9d": "Ubud, Bali, Indonesia",
+  "bfe506884a4a0d04": "Una metropoli sfavillante dove antichi templi sorgono accanto a grattacieli illuminati al neon. Esplora secoli di storia, cucina di fama mondiale e tecnologie all’avanguardia.",
   "c26d6acd8e1b2aa2": {
     "c": [
       {
@@ -321,6 +703,22 @@
     "i": 1,
     "t": "div"
   },
+  "c57cc3e9efb71ccc": [
+    {
+      "c": {
+        "c": "Torna alle destinazioni",
+        "i": 2,
+        "t": "a"
+      },
+      "i": 1,
+      "t": "div"
+    },
+    {
+      "c": "Questa è un'applicazione di esempio creata con General Translation per dimostrare l'internazionalizzazione. Non viene elaborata alcuna prenotazione reale.",
+      "i": 3,
+      "t": "p"
+    }
+  ],
   "c6020fc822473569": {
     "c": [
       {
@@ -476,6 +874,144 @@
     "i": 1,
     "t": "div"
   },
+  "c8cd2f6898ef6d1c": "Il resort di lusso con il miglior rapporto qualità-prezzo in cui siamo mai stati. Il corso di cucina balinese è stato uno dei momenti più belli.",
+  "cb5fa7ee48878906": [
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "c": [
+                {
+                  "i": 4,
+                  "k": "_gt_cost_4",
+                  "v": "c"
+                },
+                " × ",
+                {
+                  "d": {
+                    "b": {
+                      "many": {
+                        "c": [
+                          {
+                            "i": 7,
+                            "k": "_gt_n_7",
+                            "v": "n"
+                          },
+                          " notti"
+                        ],
+                        "i": 6,
+                        "t": "C6"
+                      },
+                      "other": {
+                        "c": [
+                          {
+                            "i": 7,
+                            "k": "_gt_n_7",
+                            "v": "n"
+                          },
+                          " notti"
+                        ],
+                        "i": 6,
+                        "t": "C6"
+                      },
+                      "plural": {
+                        "c": [
+                          {
+                            "i": 7,
+                            "k": "_gt_n_7",
+                            "v": "n"
+                          },
+                          " notti"
+                        ],
+                        "i": 6,
+                        "t": "C6"
+                      },
+                      "singular": {
+                        "c": [
+                          {
+                            "i": 7,
+                            "k": "_gt_n_7",
+                            "v": "n"
+                          },
+                          " notte"
+                        ],
+                        "i": 6,
+                        "t": "C6"
+                      }
+                    },
+                    "t": "p"
+                  },
+                  "i": 5,
+                  "t": "Plural"
+                }
+              ],
+              "i": 3,
+              "t": "span"
+            },
+            {
+              "c": {
+                "i": 7,
+                "k": "_gt_cost_7",
+                "v": "c"
+              },
+              "i": 6,
+              "t": "span"
+            }
+          ],
+          "i": 2,
+          "t": "div"
+        },
+        {
+          "c": [
+            {
+              "c": "Tasse e commissioni",
+              "i": 9,
+              "t": "span"
+            },
+            {
+              "c": {
+                "i": 11,
+                "k": "_gt_cost_11",
+                "v": "c"
+              },
+              "i": 10,
+              "t": "span"
+            }
+          ],
+          "i": 8,
+          "t": "div"
+        },
+        {
+          "c": [
+            {
+              "c": "Totale",
+              "i": 13,
+              "t": "span"
+            },
+            {
+              "c": {
+                "i": 15,
+                "k": "_gt_cost_15",
+                "v": "c"
+              },
+              "i": 14,
+              "t": "span"
+            }
+          ],
+          "i": 12,
+          "t": "div"
+        }
+      ],
+      "i": 1,
+      "t": "div"
+    },
+    {
+      "c": "Prenota ora",
+      "i": 16,
+      "t": "a"
+    }
+  ],
   "ce379cc68a3a5b6c": {
     "c": [
       {
@@ -492,6 +1028,7 @@
     "i": 1,
     "t": "nav"
   },
+  "cf3b3b4ad53619dd": "Servizi e assistenza eccellenti. La palestra era ben attrezzata per gli allenamenti del mattino.",
   "d00a867c35108928": [
     {
       "c": "Informazioni su questa demo",
@@ -683,7 +1220,40 @@
     "t": "p"
   },
   "d5d92191426ff1a8": "Prenotazione viaggi | Traduzione generale",
+  "d6c4a24990157b3e": "Un perfetto connubio tra tradizione e comfort. Il giardino era così tranquillo che non volevo più andarmene.",
+  "d6ce42804fbbf32c": {
+    "c": "Prenota il tuo soggiorno",
+    "i": 1,
+    "t": "h3"
+  },
+  "d727969132ed682a": "Camera moderna con vista sullo skyline di Manhattan.",
   "d88fbba24b94901e": "Scopri e prenota destinazioni indimenticabili con prezzi, date e conteggio degli ospiti ottimizzati in base al locale (lingua e area geografica).",
+  "d9a2b031e38902bc": "Deluxe",
+  "de67005dedf10dfe": {
+    "c": [
+      {
+        "c": "Numero di conferma",
+        "i": 2,
+        "t": "span"
+      },
+      {
+        "c": {
+          "i": 4,
+          "k": "_gt_value_4",
+          "v": "v"
+        },
+        "i": 3,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "df1d9caf4d1e725f": "Tokyo combina con naturalezza l’innovazione ultramoderna con una tradizione secolare. Passeggia nel sereno santuario Meiji prima di tuffarti nell’energia travolgente dell’incrocio di Shibuya. Assapora sushi squisito a Tsukiji, esplora le boutique eccentriche di Harajuku e ammira viste panoramiche sulla città dal Tokyo Skytree. Che tu cerchi giardini tranquilli o una vita notturna vivace, Tokyo offre un’esperienza indimenticabile.",
+  "e0a695de2a4193c8": "La Città delle Luci ti invita con i suoi monumenti iconici, musei di fama mondiale e una cultura dei café che trasforma ogni pasto in un’occasione speciale.",
+  "e37a177b531d4d30": "Suite premium che unisce design tradizionale e moderno.",
+  "e38169acc96bd871": "Parigi affascina con la sua eleganza senza tempo. Sali sulla Torre Eiffel al crepuscolo, esplora le sale del Louvre e passeggia lungo la Senna, costeggiando Notre-Dame. Concediti croissant al burro in un caffè all’aperto, scopri il quartiere artistico di Montmartre e fai shopping lungo gli Champs-Élysées. Dall’alta cucina ai bistrot nascosti, Parigi è un banchetto per tutti i sensi.",
+  "e5ea8b399db2f5b1": "New York, Stati Uniti",
   "e81ae7619109348a": {
     "c": [
       {
@@ -720,5 +1290,9 @@
     },
     "i": 1,
     "t": "span"
-  }
+  },
+  "f289674e9b4baea5": "Esperienza culturale meravigliosa. Lo staff ha organizzato per noi una cerimonia del tè privata, ed è stata magica.",
+  "f8dc62e5d2534f50": "Kyoto, Giappone",
+  "faa6dc12d08b4360": "Wi-Fi gratuito",
+  "fabb9001ad2f0a2a": "Shinjuku, Tokyo, Giappone"
 }

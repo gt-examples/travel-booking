@@ -23,9 +23,7 @@ const amenityKeys: Record<string, string> = {
   "airport-shuttle": "Airport Shuttle",
 };
 
-export async function generateStaticParams() {
-  return destinations.map((d) => ({ id: d.id }));
-}
+export const dynamic = "force-dynamic";
 
 export default async function DestinationPage({
   params,

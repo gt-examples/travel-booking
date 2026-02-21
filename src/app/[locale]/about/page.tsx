@@ -94,12 +94,28 @@ export default async function AboutPage() {
                 >
                   General Translation →
                 </a>
+                <a
+                  href="https://nextjs.org"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block px-4 py-2 bg-neutral-800 border border-neutral-700 rounded-md text-sm text-neutral-200 hover:bg-neutral-700 transition-colors"
+                >
+                  Next.js →
+                </a>
+                <a
+                  href="https://tailwindcss.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block px-4 py-2 bg-neutral-800 border border-neutral-700 rounded-md text-sm text-neutral-200 hover:bg-neutral-700 transition-colors"
+                >
+                  Tailwind CSS →
+                </a>
               </div>
             </section>
 
             <section className="bg-neutral-900 border border-neutral-800 rounded-lg p-5">
               <h2 className="text-lg font-semibold text-neutral-200 mb-2">
-                ⚠️ Disclaimer
+                Disclaimer
               </h2>
               <p className="text-sm">
                 This is a demonstration application. No real bookings are

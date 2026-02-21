@@ -5,13 +5,37 @@ import { getTranslatedStrings } from "@/data/translated";
 import Header from "@/components/Header";
 import StarRating from "@/components/StarRating";
 
-const amenityIcons: Record<string, string> = {
-  wifi: "📶",
-  pool: "🏊",
-  spa: "💆",
-  restaurant: "🍽️",
-  gym: "🏋️",
-  "airport-shuttle": "🚐",
+const amenityIcons: Record<string, React.ReactNode> = {
+  wifi: (
+    <svg className="w-5 h-5 text-neutral-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.14 0M1.394 9.393c5.857-5.858 15.355-5.858 21.213 0" />
+    </svg>
+  ),
+  pool: (
+    <svg className="w-5 h-5 text-neutral-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 17.5c2-1.5 4-1.5 6 0s4 1.5 6 0 4-1.5 6 0M3 21c2-1.5 4-1.5 6 0s4 1.5 6 0 4-1.5 6 0M7 3v9m4-9v9" />
+    </svg>
+  ),
+  spa: (
+    <svg className="w-5 h-5 text-neutral-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 3c-1.5 3-4 5.5-7 7 3 1.5 5.5 4 7 7 1.5-3 4-5.5 7-7-3-1.5-5.5-4-7-7z" />
+    </svg>
+  ),
+  restaurant: (
+    <svg className="w-5 h-5 text-neutral-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 3v18h2V3H3zm6 0v7a3 3 0 003 3v8h2v-8a3 3 0 003-3V3h-2v7a1 1 0 01-2 0V3h-2v7a1 1 0 01-2 0V3H9zm10 0v18h2V3h-2z" />
+    </svg>
+  ),
+  gym: (
+    <svg className="w-5 h-5 text-neutral-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 4v16M18 4v16M4 8h4M4 16h4M16 8h4M16 16h4M8 8h8M8 16h8" />
+    </svg>
+  ),
+  "airport-shuttle": (
+    <svg className="w-5 h-5 text-neutral-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 17a2 2 0 100-4 2 2 0 000 4zm8 0a2 2 0 100-4 2 2 0 000 4zM3 9h18l-2-5H5L3 9zm0 0v6a1 1 0 001 1h1m14-7v6a1 1 0 01-1 1h-1" />
+    </svg>
+  ),
 };
 
 const amenityKeys: Record<string, string> = {
@@ -100,7 +124,7 @@ export default async function DestinationPage({
                     key={a}
                     className="flex items-center gap-3 bg-neutral-900 border border-neutral-800 rounded-lg p-3"
                   >
-                    <span className="text-xl">{amenityIcons[a]}</span>
+                    <span className="flex-shrink-0">{amenityIcons[a]}</span>
                     <span className="text-sm text-neutral-300">
                       {t[amenityKeys[a]] ?? amenityKeys[a]}
                     </span>

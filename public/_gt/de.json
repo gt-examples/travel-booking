@@ -1,6 +1,6 @@
 {
-  "073433fd1922bc4a": "Alles war perfekt. Die Spa-Behandlung nach einem langen Sightseeing-Tag war himmlisch.",
-  "07351425e8098488": "Die Stadt, die niemals schläft, bietet Broadway-Shows, erstklassige Küche und ikonische Wahrzeichen – vom Central Park bis zur Freiheitsstatue.",
+  "073433fd1922bc4a": "Es war einfach alles perfekt. Die Spa-Behandlung nach einem langen Tag Sightseeing war himmlisch.",
+  "07351425e8098488": "Die Stadt, die niemals schläft, lockt mit Broadway-Shows, erstklassiger Küche und ikonischen Wahrzeichen – vom Central Park bis zur Freiheitsstatue.",
   "0ad2e23bbec0da99": {
     "c": [
       {
@@ -9,6 +9,95 @@
         "v": "n"
       },
       " (",
+      {
+        "d": {
+          "b": {
+            "other": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " Rezensionen"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "plural": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " Rezensionen"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "singular": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " Bewertung"
+              ],
+              "i": 4,
+              "t": "C4"
+            }
+          },
+          "t": "p"
+        },
+        "i": 3,
+        "t": "Plural"
+      },
+      ")"
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "0c730b7f189776b6": "Auf GitHub ansehen",
+  "0d4a68b41445f1cb": "Magnifique! Die Lage in Le Marais war perfekt, um die Stadt zu Fuß zu erkunden.",
+  "0dff33146fdc5e43": "Insgesamt ein wunderbarer Aufenthalt. Das Zimmer war makellos und das Restaurant im Erdgeschoss hatte großartige Pasta.",
+  "0f8d782dea15615a": {
+    "c": "Über dieses Ziel",
+    "i": 1,
+    "t": "h2"
+  },
+  "11afc46409baa148": {
+    "c": "Dies ist eine Beispielanwendung, die mit General Translation erstellt wurde, um Internationalisierung zu demonstrieren. Es werden keine echten Buchungen verarbeitet.",
+    "i": 1,
+    "t": "p"
+  },
+  "129e78fb17d4f85c": "Executive-Suite mit separatem Loungebereich und Blick auf den Central Park.",
+  "141628177c47e517": "Weiß getünchte Dörfer, die auf vulkanischen Klippen über der Ägäis thronen. Legendäre Sonnenuntergänge, lokale Weine und mediterranes Flair an jeder Ecke.",
+  "1459707b85024244": {
+    "c": "Gästebewertungen",
+    "i": 1,
+    "t": "h2"
+  },
+  "193a2cb1fbff4551": "Charmantes Pariser Zimmer mit klassischer Einrichtung.",
+  "194673110657ec21": "Gemütliches Zimmer im Höhlenstil mit Blick auf die Caldera.",
+  "1e85b160de42744c": "Unglaublicher Service und die Aussicht ist sogar noch besser als auf den Fotos. Ich komme auf jeden Fall wieder!",
+  "1f72a2b02004431b": "Reisebuchung",
+  "20e092e5927e29bd": "New York City pulsiert mit einer Energie, wie es sie sonst nirgends auf der Welt gibt. Schau dir eine Broadway-Show im Theater District an, schlendere durch den Central Park und genieße den Blick auf die Skyline vom Top of the Rock. Entdecke weltberühmte Museen wie das Met und das MoMA, probiere Küche aus allen Ecken der Welt und erlebe die verschiedenen Viertel – von den Kopfsteinpflasterstraßen in SoHo bis zum Trubel am Times Square – jedes mit seinem ganz eigenen Charakter.",
+  "25738eaf6c68622f": "Geräumiges Zimmer mit Blick auf den Eiffelturm.",
+  "35fe9b78d7abb7db": "Villa mit privatem Pool, umgeben von üppigem Dschungel.",
+  "38c78191be2475c7": "Komfortables Zimmer mit Stadtblick und moderner Ausstattung.",
+  "41d504ebedc89299": "Das kulturelle Herz Japans mit über zweitausend Tempeln und Schreinen. Schlendere durch Bambushaine, nimm an einer Teezeremonie teil und erlebe die Geishakultur.",
+  "421193b305b7ca85": "Elegantes Zimmer mit privater Terrasse und Zugang zum Infinitypool.",
+  "47ca1af55e9f2f59": "Tolle Lage in der Nähe des Bahnhofs Shinjuku. Das Spa war großartig. Einziges kleines Problem war der langsame Aufzug zu den Stoßzeiten.",
+  "4899278a5f59fac4": {
+    "c": [
+      {
+        "i": 2,
+        "k": "_gt_n_2",
+        "v": "n"
+      },
+      " — ",
       {
         "d": {
           "b": {
@@ -53,101 +142,12 @@
         },
         "i": 3,
         "t": "Plural"
-      },
-      ")"
-    ],
-    "i": 1,
-    "t": "span"
-  },
-  "0c730b7f189776b6": "Auf GitHub ansehen",
-  "0d4a68b41445f1cb": "Magnifique! Die Lage im Marais war perfekt, um die Stadt zu Fuß zu erkunden.",
-  "0dff33146fdc5e43": "Insgesamt ein wunderbarer Aufenthalt. Das Zimmer war makellos sauber und das hauseigene Restaurant im Erdgeschoss hatte großartige Pasta.",
-  "0f8d782dea15615a": {
-    "c": "Über dieses Ziel",
-    "i": 1,
-    "t": "h2"
-  },
-  "11afc46409baa148": {
-    "c": "Dies ist eine Beispielanwendung, die mit General Translation erstellt wurde, um Internationalisierung zu demonstrieren. Es werden keine echten Buchungen verarbeitet.",
-    "i": 1,
-    "t": "p"
-  },
-  "129e78fb17d4f85c": "Executive-Suite mit separater Lounge und Blick auf den Central Park.",
-  "141628177c47e517": "Weiß getünchte Dörfer, die auf vulkanischen Klippen über der Ägäis thronen. Legendäre Sonnenuntergänge, lokale Weine und an jeder Ecke mediterraner Charme.",
-  "1459707b85024244": {
-    "c": "Gästebewertungen",
-    "i": 1,
-    "t": "h2"
-  },
-  "193a2cb1fbff4551": "Charmantes Pariser Zimmer mit klassischer Einrichtung.",
-  "194673110657ec21": "Gemütliches, höhlenartiges Zimmer mit Blick auf die Caldera.",
-  "1e85b160de42744c": "Unglaublicher Service und die Aussicht ist sogar noch besser als auf den Fotos. Ich komme auf jeden Fall wieder!",
-  "1f72a2b02004431b": "Reisebuchung",
-  "20e092e5927e29bd": "New York City pulsiert mit einer Energie, wie es sie sonst nirgends auf der Welt gibt. Sieh dir eine Broadway-Show im Theater District an, schlendere durch den Central Park und genieße den Ausblick auf die Skyline von der Aussichtsplattform Top of the Rock. Entdecke Weltklasse-Museen wie das Met und das MoMA, koste Gerichte aus aller Welt und erlebe die verschiedenen Stadtviertel – von den Kopfsteinpflasterstraßen in SoHo bis zur Geschäftigkeit des Times Square – jedes mit seinem ganz eigenen Charakter.",
-  "25738eaf6c68622f": "Geräumiges Zimmer mit Eiffelturmblick.",
-  "35fe9b78d7abb7db": "Villa mit Privatpool, umgeben von üppigem Dschungel.",
-  "38c78191be2475c7": "Komfortables Zimmer mit Stadtblick und moderner Ausstattung.",
-  "41d504ebedc89299": "Das kulturelle Herz Japans, Heimat von mehr als zweitausend Tempeln und Schreinen. Schlendere durch Bambushaine, nimm an einer Teezeremonie teil und erlebe die Geisha-Kultur.",
-  "421193b305b7ca85": "Elegantes Zimmer mit privater Terrasse und Zugang zu einem Infinity-Pool.",
-  "47ca1af55e9f2f59": "Tolle Lage in der Nähe des Bahnhofs Shinjuku. Das Spa war wunderbar. Einziger kleiner Kritikpunkt war der langsame Aufzug zu den Stoßzeiten.",
-  "4899278a5f59fac4": {
-    "c": [
-      {
-        "i": 2,
-        "k": "_gt_n_2",
-        "v": "n"
-      },
-      " — ",
-      {
-        "d": {
-          "b": {
-            "other": {
-              "c": [
-                {
-                  "i": 5,
-                  "k": "_gt_n_5",
-                  "v": "n"
-                },
-                " Bewertungen"
-              ],
-              "i": 4,
-              "t": "C4"
-            },
-            "plural": {
-              "c": [
-                {
-                  "i": 5,
-                  "k": "_gt_n_5",
-                  "v": "n"
-                },
-                " Bewertungen"
-              ],
-              "i": 4,
-              "t": "C4"
-            },
-            "singular": {
-              "c": [
-                {
-                  "i": 5,
-                  "k": "_gt_n_5",
-                  "v": "n"
-                },
-                " Review"
-              ],
-              "i": 4,
-              "t": "C4"
-            }
-          },
-          "t": "p"
-        },
-        "i": 3,
-        "t": "Plural"
       }
     ],
     "i": 1,
     "t": "span"
   },
-  "4c28458477b02ae9": "Le Marais, Paris, Frankreich",
+  "4c28458477b02ae9": "Le Marais, Paris, France",
   "51d2d585542a9b3c": {
     "c": [
       {
@@ -373,13 +373,13 @@
       "t": "h2"
     },
     {
-      "c": "Stöbere in handverlesenen Hotels und Flügen aus aller Welt. Preise, Daten und Details passen sich automatisch an deine Sprache und Region an.",
+      "c": "Stöbere in handverlesenen Hotels und Flügen weltweit. Preise, Daten und Details passen sich automatisch an deine Sprache und Region an.",
       "i": 2,
       "t": "p"
     }
   ],
   "57c993f4316824b3": "Higashiyama, Kyoto, Japan",
-  "5875299ab323703f": "Spa- und Wellnessbereich",
+  "5875299ab323703f": "Spa & Wellness",
   "589c82771b58d7e3": {
     "c": [
       {
@@ -470,7 +470,7 @@
       "t": "span"
     }
   ],
-  "64724f9ca8a8447c": "Eckzimmer mit bodentiefen Fenstern und Panoramablick auf die Stadt.",
+  "64724f9ca8a8447c": "Eckzimmer mit bodentiefen Fenstern und Stadtpanorama.",
   "64b432bc65622d73": "Der romantischste Ort, den wir je besucht haben. Der Sonnenuntergang von unserer Terrasse aus war unvergesslich.",
   "67b4e50f7b4cb2cc": {
     "c": [
@@ -498,14 +498,14 @@
     "i": 1,
     "t": "h2"
   },
-  "6d8b96bbbcf89177": "Villa mit Blick auf Reisterrassen und Außendusche.",
-  "6fc97d991f4f696f": "Perfekter Aufenthalt von Anfang bis Ende. Das Restaurant hat das beste Tempura serviert, das ich je gegessen habe.",
-  "745eee8680d46de2": "Pool",
-  "7a5fbac255ccfbb0": "Santorin ist ein Juwel der Kykladen, berühmt für seine dramatischen Ausblicke auf die Caldera, die blaukuppeligen Kirchen und Sonnenuntergänge, die den Himmel in goldene und purpurrote Farben tauchen. Erkunde das hoch über den Klippen gelegene Dorf Oia, probiere Weine aus den vulkanischen Weinbergen, entspanne an den einzigartigen roten und schwarzen Sandstränden und entdecke die antiken Ruinen von Akrotiri. An jeder Ecke dieser Insel wartet ein Postkartenmotiv.",
-  "7ac1775de06d6cd5": "Fantastische Unterkunft. Das Restaurant war hervorragend. Ich wünschte nur, das Fitnessstudio wäre etwas größer gewesen.",
+  "6d8b96bbbcf89177": "Villa mit Blick auf die Reisterrassen und Außendusche.",
+  "6fc97d991f4f696f": "Perfekter Aufenthalt von Anfang bis Ende. Im Restaurant gab es das beste Tempura, das ich je gegessen habe.",
+  "745eee8680d46de2": "Swimmingpool",
+  "7a5fbac255ccfbb0": "Santorini ist ein Juwel der Kykladen, berühmt für seine dramatischen Blicke auf die Caldera, die Kirchen mit blauen Kuppeln und Sonnenuntergänge, die den Himmel in Gold- und Purpurtöne hüllen. Erkunde das an den Klippen gelegene Dorf Oia, koste Weine aus vulkanischen Weinbergen, entspanne an einzigartigen roten und schwarzen Sandstränden und entdecke die antiken Ruinen von Akrotiri. An jeder Ecke dieser Insel wartet ein Motiv wie aus einer Postkarte.",
+  "7ac1775de06d6cd5": "Fantastische Unterkunft. Das Restaurant war hervorragend. Ich wünschte nur, der Fitnessraum wäre etwas größer gewesen.",
   "7b5ea4a9392dd910": "Geräumiges Zimmer mit hochwertiger Ausstattung und Panoramablick.",
-  "7d2dbd73933d3cc0": "Tropischer Garten-Bungalow mit privater Terrasse.",
-  "7fb3fae2d1ab3c59": "Wunderschönes Resort mitten in Ubud. Die Yoga-Sessions bei Sonnenaufgang waren wirklich lebensverändernd.",
+  "7d2dbd73933d3cc0": "Tropischer Gartenbungalow mit privater Terrasse.",
+  "7fb3fae2d1ab3c59": "Wunderschönes Resort im Herzen von Ubud. Die Yoga-Sessions bei Sonnenaufgang waren wirklich lebensverändernd.",
   "809f487ba35f02ec": [
     {
       "c": [
@@ -575,9 +575,204 @@
       "t": "div"
     }
   ],
+  "86e0a5b0de518de4": [
+    {
+      "c": "Über diese Demo",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "c": "Was ist das?",
+              "i": 4,
+              "t": "h2"
+            },
+            {
+              "c": "Dies ist eine Demo-Reisebuchungsanwendung, die entwickelt wurde, um die Internationalisierungsfunktionen von General Translation zu demonstrieren. Jeder Text, jeder Preis, jedes Datum und jede Pluralform auf dieser Seite wird automatisch an Ihre Sprache und Region angepasst.",
+              "i": 5,
+              "t": "p"
+            }
+          ],
+          "i": 3,
+          "t": "section"
+        },
+        {
+          "c": [
+            {
+              "c": "Demonstrierte GT-Funktionen",
+              "i": 7,
+              "t": "h2"
+            },
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "c": [
+                        "<T> component"
+                      ],
+                      "i": 10,
+                      "t": "strong"
+                    },
+                    " — umschließt ganze Abschnitte zur Übersetzung und bewahrt dabei die JSX-Struktur"
+                  ],
+                  "i": 9,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<Currency>",
+                      "i": 12,
+                      "t": "strong"
+                    },
+                    " — gebietsschemabewusste Währungsformatierung, die Symbole und deren Platzierung anpasst"
+                  ],
+                  "i": 11,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<DateTime>",
+                      "i": 14,
+                      "t": "strong"
+                    },
+                    " — Datumsformatierung gemäß regionalen Konventionen"
+                  ],
+                  "i": 13,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<Plural>",
+                      "i": 16,
+                      "t": "strong"
+                    },
+                    " — grammatikalisch korrekte Singular- und Pluralformen"
+                  ],
+                  "i": 15,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<Num>",
+                      "i": 18,
+                      "t": "strong"
+                    },
+                    " — Zahlenformatierung mit gebietsschemagerechten Trennzeichen"
+                  ],
+                  "i": 17,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "getGT()",
+                      "i": 20,
+                      "t": "strong"
+                    },
+                    " — serverseitige Übersetzung für Metadaten, Alt-Texte und dynamische Zeichenketten"
+                  ],
+                  "i": 19,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "Locale routing",
+                      "i": 22,
+                      "t": "strong"
+                    },
+                    " — automatische Gebietsschemerkennung und URL-basierter Sprachwechsel"
+                  ],
+                  "i": 21,
+                  "t": "li"
+                }
+              ],
+              "i": 8,
+              "t": "ul"
+            }
+          ],
+          "i": 6,
+          "t": "section"
+        },
+        {
+          "c": [
+            {
+              "c": "Mehr erfahren",
+              "i": 24,
+              "t": "h2"
+            },
+            {
+              "c": "Erkunden Sie die Dokumentation und Ressourcen von General Translation:",
+              "i": 25,
+              "t": "p"
+            },
+            {
+              "c": [
+                {
+                  "c": "Dokumentation →",
+                  "i": 27,
+                  "t": "a"
+                },
+                {
+                  "c": "Quellcode →",
+                  "i": 28,
+                  "t": "a"
+                },
+                {
+                  "c": "General Translation →",
+                  "i": 29,
+                  "t": "a"
+                },
+                {
+                  "c": "Next.js →",
+                  "i": 30,
+                  "t": "a"
+                },
+                {
+                  "c": "Tailwind CSS →",
+                  "i": 31,
+                  "t": "a"
+                }
+              ],
+              "i": 26,
+              "t": "div"
+            }
+          ],
+          "i": 23,
+          "t": "section"
+        },
+        {
+          "c": [
+            {
+              "c": "Haftungsausschluss",
+              "i": 33,
+              "t": "h2"
+            },
+            {
+              "c": "Dies ist eine Demoanwendung. Es werden keine echten Buchungen verarbeitet, keine Zahlungen eingezogen und keine Reisedienstleistungen erbracht. Alle dargestellten Reiseziele, Preise, Bewertungen und Verfügbarkeiten sind fiktiv und dienen ausschließlich der Veranschaulichung von Internationalisierungsfunktionen.",
+              "i": 34,
+              "t": "p"
+            }
+          ],
+          "i": 32,
+          "t": "section"
+        }
+      ],
+      "i": 2,
+      "t": "div"
+    }
+  ],
   "88d391d4c674df11": "Suite",
-  "8a9d211c35c0cd7b": "Üppige Reisterrassen, heilige Wassertempel und unberührte Strände machen Bali zu einem Inselparadies. Finde Ruhe in Ubud oder reite die Wellen von Uluwatu.",
-  "8c215abc9ef8eb2a": "Wunderschönes Hotel mit viel Charme. Der Concierge hat uns großartige Restaurants empfohlen.",
+  "8a9d211c35c0cd7b": "Üppige Reisterrassen, heilige Wassertempel und unberührte Strände machen Bali zu einem Inselparadies. Finde Ruhe in Ubud oder surfe die Wellen vor Uluwatu.",
+  "8c215abc9ef8eb2a": "Wunderschönes Hotel mit viel Charakter. Der Concierge hat uns großartige Restaurants empfohlen.",
   "8dfd4de6656ce0cc": {
     "c": {
       "c": "Zimmertyp",
@@ -587,31 +782,31 @@
     "i": 1,
     "t": "div"
   },
-  "8e3a8e45af9fa34e": "Absolut atemberaubendes Hotel! Der Ausblick aus unserem Zimmer war überwältigend und das Personal hat wirklich alles getan, um unseren Aufenthalt so angenehm wie möglich zu machen.",
-  "90808408ea1589e7": "Unsere bisher beste Hotelerfahrung in NYC! Der Concierge hat uns scheinbar unmögliche Broadway-Tickets besorgt.",
-  "932d6824340e9b79": "Der authentischste Aufenthalt, den ich je in Japan erlebt habe. Zum Klang der Tempelglocken aufzuwachen, war surreal.",
-  "932df80e22651028": "Das Paradies gefunden! Die Villa mit privatem Pool hat alle Erwartungen übertroffen. Das Personal hat uns wie Familienangehörige behandelt.",
+  "8e3a8e45af9fa34e": "Absolut beeindruckendes Hotel! Der Ausblick von unserem Zimmer war atemberaubend und das Personal hat wirklich alles getan.",
+  "90808408ea1589e7": "Beste Hotelerfahrung in NYC! Der Concierge hat uns sogar scheinbar unmögliche Broadway-Tickets besorgt.",
+  "932d6824340e9b79": "Der authentischste Aufenthalt, den ich bisher in Japan erlebt habe. Zum Klang der Tempelglocken aufzuwachen, war surreal.",
+  "932df80e22651028": "Paradies gefunden! Die private Poolvilla hat alle Erwartungen übertroffen. Das Personal hat uns wie zur Familie gehörend behandelt.",
   "95e840bd4cc7cd17": "Bali, Indonesien",
   "97392be497b5890d": "Tolle Lage in Midtown, alles ist bequem zu Fuß erreichbar. Die Rooftop-Bar war fantastisch.",
-  "974f2146399732f3": "Ausgezeichnetes Frühstück und sehr bequeme Betten. Nachts etwas laut, aber die Lage macht das wett.",
+  "974f2146399732f3": "Ausgezeichnetes Frühstück und sehr bequeme Betten. Nachts ein wenig laut, aber die Lage macht es wett.",
   "99ff947e8cb02d78": "Midtown Manhattan, New York, USA",
-  "9c36a0af5038e1eb": "Flughafentransfer",
+  "9c36a0af5038e1eb": "Flughafenshuttle",
   "9f10067a658f037c": "Oia, Santorin, Griechenland",
-  "a2e47bf352be557f": "Große Suite mit Balkon und luxuriöser Ausstattung.",
-  "abbf3a53f8a75564": "Kyoto ist der Ort, an dem Japans Seele zuhause ist. Schlendere unter den ikonischen, leuchtend roten Torii des Fushimi Inari hindurch, verliere dich im beinahe unwirklichen Bambushain von Arashiyama und finde Ruhe in den Zen-Steingärten von Ryoan-ji. Jede Jahreszeit verwandelt die Stadt – Kirschblüten im Frühling, feuerrote Ahornblätter im Herbst. Traditionelle Ryokan-Gasthäuser, Kaiseki-Küche und die Kunst der Teezeremonie erwarten dich.",
+  "a2e47bf352be557f": "Großzügige Suite mit Balkon und luxuriösen Annehmlichkeiten.",
+  "abbf3a53f8a75564": "Kyoto ist der Ort, an dem die Seele Japans zuhause ist. Schlendere durch die ikonischen, leuchtend roten Torii von Fushimi Inari, verliere dich im entrückten Bambushain von Arashiyama und finde Ruhe in den Zen-Steingärten von Ryōan-ji. Jede Jahreszeit verwandelt die Stadt – Kirschblüten im Frühling, feuerrote Ahornblätter im Herbst. Traditionelle Ryokan, Kaiseki-Küche und die Kunst der Teezeremonie erwarten dich.",
   "aca845e010d27187": "Fitnessstudio",
   "aec703117cb5a895": "Santorin, Griechenland",
   "b219cd3ec0f247be": "Romantische Suite mit privatem Tauchbecken und Blick auf den Sonnenuntergang.",
   "b2fc84a56f245f5d": "Paris, Frankreich",
-  "b301ff0ba11eaa20": "Wunderschöne Anlage mit hervorragender Ausstattung. Der Poolbereich war eine schöne Überraschung für ein Stadthotel.",
-  "b39d2a09c5dec6f6": "Bali verzaubert Besucher mit seiner spirituellen Ausstrahlung und natürlichen Schönheit. Wandere durch die smaragdgrünen Reisterrassen von Tegallalang, erlebe bei Sonnenuntergang einen traditionellen Kecak-Tanz und reinige deinen Geist im heiligen Wassertempel Tirta Empul. Vom künstlerischen Zentrum Ubud bis zu den Beach Clubs von Seminyak bietet Bali ein facettenreiches Mosaik an Erlebnissen – Yoga-Retreats, Surfen auf Weltklasse-Niveau und eine Küche, die bei jeder Mahlzeit aufs Neue überrascht.",
+  "b301ff0ba11eaa20": "Wunderschöne Hotelanlage mit hervorragenden Einrichtungen. Der Poolbereich war eine tolle Überraschung für ein Stadthotel.",
+  "b39d2a09c5dec6f6": "Bali verzaubert Besucher mit seiner spirituellen Energie und natürlichen Schönheit. Wandere durch die smaragdgrünen Reisfelder von Tegallalang, erlebe bei Sonnenuntergang einen traditionellen Kecak-Tanz und kläre deinen Geist im heiligen Tempel Tirta Empul. Vom künstlerischen Zentrum Ubud bis zu den Beachclubs in Seminyak bietet Bali ein breites Spektrum an Erlebnissen – Yoga-Retreats, Surfen auf Weltklasse-Niveau und eine Küche, die bei jeder Mahlzeit aufs Neue überrascht.",
   "b879dad12b55f583": {
     "c": "Zimmertypen",
     "i": 1,
     "t": "h2"
   },
   "bfbd9bce214e5b9d": "Ubud, Bali, Indonesien",
-  "bfe506884a4a0d04": "Eine schillernde Metropole, in der antike Tempel Seite an Seite mit neonbeleuchteten Wolkenkratzern stehen. Entdecke Jahrhunderte Geschichte, erstklassige Küche und Spitzentechnologie.",
+  "bfe506884a4a0d04": "Eine glitzernde Metropole, in der jahrhundertealte Tempel neben neonbeleuchteten Wolkenkratzern stehen. Entdecke eine jahrhundertealte Geschichte, Spitzengastronomie und modernste Technologie.",
   "c26d6acd8e1b2aa2": {
     "c": [
       {
@@ -802,7 +997,7 @@
     "i": 1,
     "t": "div"
   },
-  "c8cd2f6898ef6d1c": "Bestes Preis-Leistungs-Verhältnis in einem Luxusresort, in dem wir je übernachtet haben. Der balinesische Kochkurs war ein Highlight.",
+  "c8cd2f6898ef6d1c": "Das Resort mit dem besten Preis-Leistungs-Verhältnis, in dem wir je waren. Der balinesische Kochkurs war ein Highlight.",
   "cb5fa7ee48878906": [
     {
       "c": [
@@ -944,207 +1139,22 @@
     "i": 1,
     "t": "nav"
   },
-  "cf3b3b4ad53619dd": "Hervorragende Ausstattung und sehr guter Service. Das Fitnessstudio war für morgendliche Workouts sehr gut ausgestattet.",
-  "d00a867c35108928": [
-    {
-      "c": "Über diese Demo",
-      "i": 1,
-      "t": "h1"
-    },
-    {
-      "c": [
-        {
-          "c": [
-            {
-              "c": "Was ist das?",
-              "i": 4,
-              "t": "h2"
-            },
-            {
-              "c": "Dies ist eine Demo-Reisebuchungsanwendung, die entwickelt wurde, um die Internationalisierungsfunktionen von General Translation zu präsentieren. Jeder Text, jeder Preis, jedes Datum und jede Pluralform auf dieser Website wird automatisch an Ihre Sprache und Region angepasst.",
-              "i": 5,
-              "t": "p"
-            }
-          ],
-          "i": 3,
-          "t": "section"
-        },
-        {
-          "c": [
-            {
-              "c": "Gezeigte GT-Funktionen",
-              "i": 7,
-              "t": "h2"
-            },
-            {
-              "c": [
-                {
-                  "c": [
-                    {
-                      "c": [
-                        "<T> component"
-                      ],
-                      "i": 10,
-                      "t": "strong"
-                    },
-                    " — umschließt ganze Abschnitte zur Übersetzung und bewahrt die JSX-Struktur"
-                  ],
-                  "i": 9,
-                  "t": "li"
-                },
-                {
-                  "c": [
-                    {
-                      "c": "<Currency>",
-                      "i": 12,
-                      "t": "strong"
-                    },
-                    " — gebietsschemabewusste Währungsformatierung, die Symbole und Platzierung anpasst"
-                  ],
-                  "i": 11,
-                  "t": "li"
-                },
-                {
-                  "c": [
-                    {
-                      "c": "<DateTime>",
-                      "i": 14,
-                      "t": "strong"
-                    },
-                    " — Datumsangaben nach regionalen Konventionen formatiert"
-                  ],
-                  "i": 13,
-                  "t": "li"
-                },
-                {
-                  "c": [
-                    {
-                      "c": "<Plural>",
-                      "i": 16,
-                      "t": "strong"
-                    },
-                    " — grammatikalisch korrekte Singular- und Pluralformen"
-                  ],
-                  "i": 15,
-                  "t": "li"
-                },
-                {
-                  "c": [
-                    {
-                      "c": "<Num>",
-                      "i": 18,
-                      "t": "strong"
-                    },
-                    " — Zahlenformatierung mit gebietsschemagerechten Trennzeichen"
-                  ],
-                  "i": 17,
-                  "t": "li"
-                },
-                {
-                  "c": [
-                    {
-                      "c": "getGT()",
-                      "i": 20,
-                      "t": "strong"
-                    },
-                    " — serverseitige Übersetzung für Metadaten, Alt-Texte und dynamische Zeichenketten"
-                  ],
-                  "i": 19,
-                  "t": "li"
-                },
-                {
-                  "c": [
-                    {
-                      "c": "Locale routing",
-                      "i": 22,
-                      "t": "strong"
-                    },
-                    " — automatische Gebietsschemerkennung und URL-basierter Sprachwechsel"
-                  ],
-                  "i": 21,
-                  "t": "li"
-                }
-              ],
-              "i": 8,
-              "t": "ul"
-            }
-          ],
-          "i": 6,
-          "t": "section"
-        },
-        {
-          "c": [
-            {
-              "c": "Mehr erfahren",
-              "i": 24,
-              "t": "h2"
-            },
-            {
-              "c": "Erkunden Sie die Dokumentation und Ressourcen von General Translation:",
-              "i": 25,
-              "t": "p"
-            },
-            {
-              "c": [
-                {
-                  "c": "Dokumentation →",
-                  "i": 27,
-                  "t": "a"
-                },
-                {
-                  "c": "Quellcode →",
-                  "i": 28,
-                  "t": "a"
-                },
-                {
-                  "c": "General Translation →",
-                  "i": 29,
-                  "t": "a"
-                }
-              ],
-              "i": 26,
-              "t": "div"
-            }
-          ],
-          "i": 23,
-          "t": "section"
-        },
-        {
-          "c": [
-            {
-              "c": "⚠️ Haftungsausschluss",
-              "i": 31,
-              "t": "h2"
-            },
-            {
-              "c": "Dies ist eine Demoanwendung. Es werden keine echten Buchungen verarbeitet, keine Zahlungen eingezogen und keine Reisedienstleistungen erbracht. Alle dargestellten Reiseziele, Preise, Bewertungen und Verfügbarkeiten sind fiktiv und dienen ausschließlich der Veranschaulichung von Internationalisierungsfunktionen.",
-              "i": 32,
-              "t": "p"
-            }
-          ],
-          "i": 30,
-          "t": "section"
-        }
-      ],
-      "i": 2,
-      "t": "div"
-    }
-  ],
+  "cf3b3b4ad53619dd": "Erstklassige Ausstattung und exzellenter Service. Das Fitnessstudio war perfekt für das morgendliche Training ausgestattet.",
   "d020aa82dd871c46": {
     "c": "Erstellt mit General Translation, um die gebietsschemabewusste Formatierung von Preisen, Datumsangaben und Pluralformen zu demonstrieren.",
     "i": 1,
     "t": "p"
   },
   "d5d92191426ff1a8": "Reisebuchung | Allgemeine Übersetzung",
-  "d6c4a24990157b3e": "Eine perfekte Mischung aus Tradition und Komfort. Der Garten war so friedlich, dass ich gar nicht mehr weg wollte.",
+  "d6c4a24990157b3e": "Eine perfekte Mischung aus Tradition und Komfort. Der Garten war so ruhig und friedlich, dass ich gar nicht mehr weg wollte.",
   "d6ce42804fbbf32c": {
     "c": "Aufenthalt buchen",
     "i": 1,
     "t": "h3"
   },
-  "d727969132ed682a": "Modernes Zimmer mit Blick auf die Skyline von Manhattan.",
-  "d88fbba24b94901e": "Entdecke und buche unvergessliche Reiseziele mit Preisen, Datumsangaben und Gästeanzahl, die sich nach Sprache und Region richten.",
-  "d9a2b031e38902bc": "Deluxe",
+  "d727969132ed682a": "Modernes Zimmer mit Blick auf die Manhattan-Skyline.",
+  "d88fbba24b94901e": "Entdecke und buche unvergessliche Reiseziele mit lokalisierten Preisen, Datumsformaten und Gästeangaben.",
+  "d9a2b031e38902bc": "Deluxe-Zimmer",
   "de67005dedf10dfe": {
     "c": [
       {
@@ -1165,10 +1175,10 @@
     "i": 1,
     "t": "div"
   },
-  "df1d9caf4d1e725f": "Tokyo verbindet nahtlos ultramoderne Innovation mit jahrhundertealter Tradition. Schlendere durch den ruhigen Meiji-Schrein, bevor du in die elektrisierende Atmosphäre der Shibuya-Kreuzung eintauchst. Probiere erlesenes Sushi in Tsukiji, stöbere in ausgefallenen Boutiquen in Harajuku und genieße den Panoramablick über die Stadt vom Tokyo Skytree aus. Ob du ruhige Gärten oder ein pulsierendes Nachtleben suchst – Tokyo bietet dir ein unvergessliches Erlebnis.",
-  "e0a695de2a4193c8": "Die Stadt des Lichts lockt mit ikonischen Wahrzeichen, weltberühmten Museen und einer Café-Kultur, die jede Mahlzeit zu etwas Besonderem macht.",
-  "e37a177b531d4d30": "Premium-Suite mit harmonischer Mischung aus traditionellem und modernem Design.",
-  "e38169acc96bd871": "Paris fasziniert mit zeitloser Eleganz. Fahr in der Dämmerung auf den Eiffelturm hinauf, schlendere durch die Hallen des Louvre und spaziere an der Seine entlang, an Notre-Dame vorbei. Gönn dir buttrige Croissants im Straßencafé, entdecke das Künstlerviertel Montmartre und bummle die Champs-Élysées entlang. Von Haute Cuisine bis zu versteckten Bistros ist Paris ein Fest für alle Sinne.",
+  "df1d9caf4d1e725f": "Tokio vereint nahtlos hochmoderne Innovation mit jahrhundertealten Traditionen. Schlendere durch den friedlichen Meiji-Schrein, bevor du in die elektrisierende Atmosphäre der Shibuya-Kreuzung eintauchst. Genieße erlesenes Sushi in Tsukiji, stöbere durch ausgefallene Boutiquen in Harajuku und bewundere den Panoramablick auf die Stadt vom Tokyo Skytree. Ob du ruhige Gärten oder ein pulsierendes Nachtleben suchst – Tokio bietet dir ein unvergessliches Erlebnis.",
+  "e0a695de2a4193c8": "Die Stadt der Lichter lockt mit ikonischen Wahrzeichen, weltberühmten Museen und einer Café-Kultur, die jede Mahlzeit zu etwas Besonderem macht.",
+  "e37a177b531d4d30": "Premium-Suite mit einer Mischung aus traditionellem und modernem Design.",
+  "e38169acc96bd871": "Paris fasziniert mit zeitloser Eleganz. Steig bei Einbruch der Dämmerung auf den Eiffelturm, streife durch die Säle des Louvre und spaziere entlang der Seine an Notre-Dame vorbei. Gönn dir butterzarte Croissants in einem Straßencafé, erkunde das Künstlerviertel Montmartre und geh auf der Champs-Élysées bummeln. Von Haute Cuisine bis zu versteckten Bistros ist Paris ein Fest für alle Sinne.",
   "e5ea8b399db2f5b1": "New York, USA",
   "e81ae7619109348a": {
     "c": [

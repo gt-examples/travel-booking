@@ -1,6 +1,6 @@
 {
-  "073433fd1922bc4a": "Tout était parfait. Le soin au spa après une longue journée de visites était tout simplement divin.",
-  "07351425e8098488": "La ville qui ne dort jamais offre des spectacles de Broadway, une gastronomie de niveau mondial et des sites emblématiques, de Central Park à la statue de la Liberté.",
+  "073433fd1922bc4a": "Tout \u0000e9tait parfait. Le soin au spa apr\u0000e8s une longue journ\u0000e9e de visites \u0000e9tait paradisiaque.",
+  "07351425e8098488": "La ville qui ne dort jamais offre des spectacles de Broadway, une gastronomie de renommée mondiale et des lieux emblématiques, de Central Park à la Statue de la Liberté.",
   "0ad2e23bbec0da99": {
     "c": [
       {
@@ -55,7 +55,7 @@
                   "k": "_gt_n_5",
                   "v": "n"
                 },
-                " révision"
+                " avis"
               ],
               "i": 4,
               "t": "C4"
@@ -72,36 +72,36 @@
     "t": "span"
   },
   "0c730b7f189776b6": "Voir sur GitHub",
-  "0d4a68b41445f1cb": "Magnifique ! L'emplacement dans le Marais était parfait pour explorer la ville à pied.",
-  "0dff33146fdc5e43": "Séjour globalement magnifique. La chambre était impeccable et le restaurant en bas servait des pâtes incroyables.",
+  "0d4a68b41445f1cb": "Magnifique\u0000a0! L'emplacement dans le Marais \u0000e9tait parfait pour explorer la ville \u0000e0 pied.",
+  "0dff33146fdc5e43": "Un séjour globalement merveilleux. La chambre était impeccable et le restaurant en bas servait des pâtes incroyables.",
   "0f8d782dea15615a": {
     "c": "À propos de cette destination",
     "i": 1,
     "t": "h2"
   },
   "11afc46409baa148": {
-    "c": "Ceci est un exemple d'application développée avec General Translation pour illustrer l'internationalisation. Aucune réservation réelle n'est traitée.",
+    "c": "Ceci est un exemple d'application créée avec General Translation pour illustrer l'internationalisation. Aucune réservation réelle n'est traitée.",
     "i": 1,
     "t": "p"
   },
   "129e78fb17d4f85c": "Suite exécutive avec salon séparé et vue sur Central Park.",
-  "141628177c47e517": "Des villages blanchis à la chaux, perchés sur des falaises volcaniques dominant la mer Égée. Couchers de soleil légendaires, vins locaux et charme méditerranéen à chaque coin de rue.",
+  "141628177c47e517": "Des villages blanchis à la chaux accrochés à des falaises volcaniques surplombant la mer Égée. Des couchers de soleil légendaires, des vins locaux et un charme méditerranéen à chaque instant.",
   "1459707b85024244": {
     "c": "Avis des clients",
     "i": 1,
     "t": "h2"
   },
   "193a2cb1fbff4551": "Charmante chambre parisienne au décor classique.",
-  "194673110657ec21": "Chambre chaleureuse, de style grotte, avec vue sur la caldeira.",
-  "1e85b160de42744c": "Service incroyable et vues encore plus belles que sur les photos. Je reviendrai, c’est sûr !",
-  "1f72a2b02004431b": "Réservation de voyages",
-  "20e092e5927e29bd": "New York City vibre d’une énergie unique au monde. Assistez à un spectacle à Broadway dans le Theater District, promenez-vous dans Central Park et admirez la vue sur les gratte-ciel depuis le Top of the Rock. Explorez des musées de renommée mondiale comme le Met et le MoMA, savourez une cuisine venue des quatre coins du globe et découvrez des quartiers — des rues pavées de SoHo à l’effervescence de Times Square — chacun avec sa personnalité bien à lui.",
+  "194673110657ec21": "Chambre chaleureuse de style grotte avec vue sur la caldeira.",
+  "1e85b160de42744c": "Un service incroyable et une vue encore plus belle que sur les photos. Je reviendrai sans hésiter\u0000a0!",
+  "1f72a2b02004431b": "Réservation de voyage",
+  "20e092e5927e29bd": "New York City vibre d’une énergie unique au monde. Assistez à un spectacle de Broadway dans le Theater District, promenez-vous dans Central Park et admirez la vue sur la skyline depuis Top of the Rock. Explorez des musées de renommée mondiale comme le Met et le MoMA, savourez des cuisines venues des quatre coins du globe et découvrez des quartiers — des rues pavées de SoHo à l’effervescence de Times Square — chacun avec sa propre personnalité bien affirmée.",
   "25738eaf6c68622f": "Chambre spacieuse avec vue sur la tour Eiffel.",
   "35fe9b78d7abb7db": "Villa avec piscine privée, entourée d’une jungle luxuriante.",
   "38c78191be2475c7": "Chambre confortable avec vue sur la ville et équipements modernes.",
-  "41d504ebedc89299": "Le cœur culturel du Japon, avec plus de deux mille temples et sanctuaires. Promenez-vous dans les forêts de bambous, assistez à une cérémonie du thé et découvrez la tradition des geishas.",
+  "41d504ebedc89299": "Le cœur culturel du Japon, avec plus de deux mille temples et sanctuaires. Flânez dans les forêts de bambous, assistez à une cérémonie du thé et découvrez la culture des geishas.",
   "421193b305b7ca85": "Chambre élégante avec terrasse privée et accès à une piscine à débordement.",
-  "47ca1af55e9f2f59": "Emplacement idéal près de la gare de Shinjuku. Le spa était formidable. Seul petit problème\u0000a0: l’ascenseur était lent aux heures de pointe.",
+  "47ca1af55e9f2f59": "Emplacement idéal, tout près de la gare de Shinjuku. Le spa était formidable. Seul petit bémol : l’ascenseur était lent aux heures de pointe.",
   "4899278a5f59fac4": {
     "c": [
       {
@@ -156,7 +156,7 @@
                   "k": "_gt_n_5",
                   "v": "n"
                 },
-                " révision"
+                " avis"
               ],
               "i": 4,
               "t": "C4"
@@ -351,7 +351,7 @@
                             "k": "_gt_n_29",
                             "v": "n"
                           },
-                          " invités"
+                          " voyageurs"
                         ],
                         "i": 28,
                         "t": "C28"
@@ -363,7 +363,7 @@
                             "k": "_gt_n_29",
                             "v": "n"
                           },
-                          " invités"
+                          " voyageurs"
                         ],
                         "i": 28,
                         "t": "C28"
@@ -375,7 +375,7 @@
                             "k": "_gt_n_29",
                             "v": "n"
                           },
-                          " invités"
+                          " voyageurs"
                         ],
                         "i": 28,
                         "t": "C28"
@@ -387,7 +387,7 @@
                             "k": "_gt_n_29",
                             "v": "n"
                           },
-                          " voyageur"
+                          " invité"
                         ],
                         "i": 28,
                         "t": "C28"
@@ -413,7 +413,7 @@
     "i": 1,
     "t": "div"
   },
-  "524b7d2745cd5f84": "Chambre supérieure avec bain onsen privatif.",
+  "524b7d2745cd5f84": "Chambre de catégorie supérieure avec bain onsen privé.",
   "54db4f89c8684d04": [
     {
       "c": "Découvrez votre prochaine destination",
@@ -427,7 +427,7 @@
     }
   ],
   "57c993f4316824b3": "Higashiyama, Kyoto, Japon",
-  "5875299ab323703f": "Spa & bien-être",
+  "5875299ab323703f": "Spa et bien-être",
   "589c82771b58d7e3": {
     "c": [
       {
@@ -502,7 +502,7 @@
   "58bec0a5a88d5b95": "Tokyo, Japon",
   "5b2e6d9b918cda11": "Restaurant",
   "5bb171e75f0ba2d9": "Chambre traditionnelle avec tatamis et vue sur le jardin.",
-  "5ce154cbcdd98973": "Suite luxueuse avec salon séparé et vue sur l’horizon urbain.",
+  "5ce154cbcdd98973": "Suite luxueuse avec salon séparé et vue sur l’horizon.",
   "62b3af8d7befdc26": [
     {
       "c": [
@@ -530,7 +530,7 @@
       "t": "span"
     }
   ],
-  "64724f9ca8a8447c": "Chambre d’angle avec baies vitrées et vue panoramique sur la ville.",
+  "64724f9ca8a8447c": "Chambre d’angle avec baies vitrées et panorama sur la ville.",
   "64b432bc65622d73": "L’endroit le plus romantique que nous ayons jamais visité. Le coucher de soleil depuis notre terrasse était inoubliable.",
   "67b4e50f7b4cb2cc": {
     "c": [
@@ -561,11 +561,11 @@
   "6d8b96bbbcf89177": "Villa avec vue sur les rizières en terrasses et douche extérieure.",
   "6fc97d991f4f696f": "Séjour parfait du début à la fin. Le restaurant servait la meilleure tempura que j’aie jamais mangée.",
   "745eee8680d46de2": "Piscine",
-  "7a5fbac255ccfbb0": "Santorin est un joyau des Cyclades, célèbre pour ses vues spectaculaires sur la caldeira, ses églises aux dômes bleus et ses couchers de soleil qui peignent le ciel de nuances d’or et de cramoisi. Explorez le village perché sur les falaises d’Oia, dégustez des vins issus de vignobles volcaniques, détendez-vous sur ses plages de sable rouge et noir, et découvrez les ruines antiques d’Akrotiri. À chaque recoin de l’île, un décor digne d’une carte postale vous attend.",
-  "7ac1775de06d6cd5": "Établissement incroyable. Le restaurant était excellent. Je regrette seulement que la salle de sport ne soit pas un peu plus grande.",
-  "7b5ea4a9392dd910": "Chambre spacieuse avec mobilier haut de gamme et baies vitrées panoramiques.",
-  "7d2dbd73933d3cc0": "Bungalow dans un jardin tropical avec patio privé.",
-  "7fb3fae2d1ab3c59": "Magnifique complexe hôtelier au cœur d’Ubud. Les séances de yoga au lever du soleil ont changé ma vie.",
+  "7a5fbac255ccfbb0": "Santorin est un joyau des Cyclades, célèbre pour ses vues spectaculaires sur la caldeira, ses églises aux dômes bleus et ses couchers de soleil qui parent le ciel de teintes dorées et pourpres. Explorez le village perché d’Oia, goûtez des vins issus de vignobles volcaniques, détendez-vous sur ses plages de sable rouge et noir, uniques en leur genre, et découvrez les ruines antiques d’Akrotiri. Chaque recoin de cette île offre un moment digne d’une carte postale.",
+  "7ac1775de06d6cd5": "Établissement exceptionnel. Le restaurant était superbe. Je regrette seulement que la salle de sport n’ait pas été un peu plus grande.",
+  "7b5ea4a9392dd910": "Chambre spacieuse avec mobilier haut de gamme et larges baies vitrées.",
+  "7d2dbd73933d3cc0": "Bungalow de jardin tropical avec patio privé.",
+  "7fb3fae2d1ab3c59": "Superbe complexe hôtelier au cœur d’Ubud. Les séances de yoga au lever du soleil ont changé ma vie.",
   "809f487ba35f02ec": [
     {
       "c": [
@@ -635,9 +635,204 @@
       "t": "div"
     }
   ],
+  "86e0a5b0de518de4": [
+    {
+      "c": "À propos de cette démo",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "c": "De quoi s'agit-il ?",
+              "i": 4,
+              "t": "h2"
+            },
+            {
+              "c": "Il s'agit d'une application de réservation de voyages de démonstration conçue pour illustrer les fonctionnalités d'internationalisation de General Translation. Chaque texte, chaque prix, chaque date et chaque forme de pluriel sur ce site est automatiquement adapté à votre langue et à votre région.",
+              "i": 5,
+              "t": "p"
+            }
+          ],
+          "i": 3,
+          "t": "section"
+        },
+        {
+          "c": [
+            {
+              "c": "Fonctionnalités GT illustrées",
+              "i": 7,
+              "t": "h2"
+            },
+            {
+              "c": [
+                {
+                  "c": [
+                    {
+                      "c": [
+                        "<T> component"
+                      ],
+                      "i": 10,
+                      "t": "strong"
+                    },
+                    " — encapsule des sections entières pour la traduction, en préservant la structure JSX"
+                  ],
+                  "i": 9,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<Currency>",
+                      "i": 12,
+                      "t": "strong"
+                    },
+                    " — formatage des devises adapté à la locale, avec symboles et placement ajustés"
+                  ],
+                  "i": 11,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<DateTime>",
+                      "i": 14,
+                      "t": "strong"
+                    },
+                    " — dates formatées selon les conventions régionales"
+                  ],
+                  "i": 13,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<Plural>",
+                      "i": 16,
+                      "t": "strong"
+                    },
+                    " — formes singulier et pluriel grammaticalement correctes"
+                  ],
+                  "i": 15,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "<Num>",
+                      "i": 18,
+                      "t": "strong"
+                    },
+                    " — formatage des nombres avec séparateurs adaptés à la locale"
+                  ],
+                  "i": 17,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "getGT()",
+                      "i": 20,
+                      "t": "strong"
+                    },
+                    " — traduction côté serveur pour les métadonnées, le texte alternatif et les chaînes dynamiques"
+                  ],
+                  "i": 19,
+                  "t": "li"
+                },
+                {
+                  "c": [
+                    {
+                      "c": "Locale routing",
+                      "i": 22,
+                      "t": "strong"
+                    },
+                    " — détection automatique de la locale et changement de langue par URL"
+                  ],
+                  "i": 21,
+                  "t": "li"
+                }
+              ],
+              "i": 8,
+              "t": "ul"
+            }
+          ],
+          "i": 6,
+          "t": "section"
+        },
+        {
+          "c": [
+            {
+              "c": "En savoir plus",
+              "i": 24,
+              "t": "h2"
+            },
+            {
+              "c": "Explorez la documentation et les ressources de General Translation :",
+              "i": 25,
+              "t": "p"
+            },
+            {
+              "c": [
+                {
+                  "c": "Documentation →",
+                  "i": 27,
+                  "t": "a"
+                },
+                {
+                  "c": "Code source →",
+                  "i": 28,
+                  "t": "a"
+                },
+                {
+                  "c": "General Translation →",
+                  "i": 29,
+                  "t": "a"
+                },
+                {
+                  "c": "Next.js →",
+                  "i": 30,
+                  "t": "a"
+                },
+                {
+                  "c": "Tailwind CSS →",
+                  "i": 31,
+                  "t": "a"
+                }
+              ],
+              "i": 26,
+              "t": "div"
+            }
+          ],
+          "i": 23,
+          "t": "section"
+        },
+        {
+          "c": [
+            {
+              "c": "Avertissement",
+              "i": 33,
+              "t": "h2"
+            },
+            {
+              "c": "Il s'agit d'une application de démonstration. Aucune réservation réelle n'est traitée, aucun paiement n'est collecté et aucun service de voyage n'est fourni. Toutes les destinations, prix, avis et disponibilités affichés sont fictifs et utilisés uniquement pour illustrer les fonctionnalités d'internationalisation.",
+              "i": 34,
+              "t": "p"
+            }
+          ],
+          "i": 32,
+          "t": "section"
+        }
+      ],
+      "i": 2,
+      "t": "div"
+    }
+  ],
   "88d391d4c674df11": "Suite",
-  "8a9d211c35c0cd7b": "Des rizières en terrasses luxuriantes, des temples de l’eau sacrés et des plages encore préservées font de Bali un véritable paradis insulaire. Trouvez la sérénité à Ubud ou surfez sur les vagues d’Uluwatu.",
-  "8c215abc9ef8eb2a": "Charmant hôtel plein de caractère. Le concierge nous a recommandé des restaurants incroyables.",
+  "8a9d211c35c0cd7b": "Des rizières en terrasses luxuriantes, des temples sacrés dédiés à l’eau et des plages immaculées font de Bali un véritable paradis insulaire. Trouvez la sérénité à Ubud ou surfez sur les vagues d’Uluwatu.",
+  "8c215abc9ef8eb2a": "Charmant h\u0000f4tel plein de caract\u0000e8re. Le concierge nous a recommand\u0000e9 des restaurants extraordinaires.",
   "8dfd4de6656ce0cc": {
     "c": {
       "c": "Type de chambre",
@@ -647,31 +842,31 @@
     "i": 1,
     "t": "div"
   },
-  "8e3a8e45af9fa34e": "Hôtel absolument magnifique\u0000a0! La vue depuis notre chambre était à couper le souffle et le personnel s’est vraiment mis en quatre pour nous.",
-  "90808408ea1589e7": "Meilleure expérience hôtelière à New York ! Le concierge nous a obtenu des billets de Broadway normalement impossibles à trouver.",
-  "932d6824340e9b79": "Le séjour le plus authentique que j’aie vécu au Japon. Se réveiller au son des cloches du temple était irréel.",
-  "932df80e22651028": "Le paradis ! La villa avec piscine privée a dépassé toutes nos attentes. Le personnel nous a traités comme des membres de la famille.",
+  "8e3a8e45af9fa34e": "Hôtel absolument magnifique ! La vue depuis notre chambre était à couper le souffle et le personnel s’est vraiment mis en quatre pour nous.",
+  "90808408ea1589e7": "Meilleure expérience hôtelière à New York ! Le concierge nous a obtenu des billets de Broadway introuvables.",
+  "932d6824340e9b79": "Le séjour le plus authentique que j’aie eu au Japon. Se réveiller au son des cloches du temple était irréel.",
+  "932df80e22651028": "Le paradis\u0000a0! La villa avec piscine priv\u0000e9e a d\u0000e9pass\u0000e9 toutes nos attentes. Le personnel nous a trait\u0000e9s comme de la famille.",
   "95e840bd4cc7cd17": "Bali, Indonésie",
   "97392be497b5890d": "Emplacement idéal à Midtown, à distance de marche de tout. Le bar sur le toit était fantastique.",
-  "974f2146399732f3": "Excellent petit-déjeuner et lits très confortables. Un peu bruyant la nuit, mais le quartier en vaut la peine.",
+  "974f2146399732f3": "Excellent petit-d\u0000e9jeuner et lits tr\u0000e8s confortables. Un peu bruyant la nuit, mais l'emplacement en vaut la peine.",
   "99ff947e8cb02d78": "Midtown Manhattan, New York, États-Unis",
   "9c36a0af5038e1eb": "Navette pour l’aéroport",
   "9f10067a658f037c": "Oia, Santorin, Grèce",
-  "a2e47bf352be557f": "Grande suite avec balcon et prestations de luxe.",
-  "abbf3a53f8a75564": "Kyoto est la ville où réside l’âme du Japon. Marchez sous les emblématiques torii vermillon de Fushimi Inari, perdez-vous dans la forêt de bambous éthérée d’Arashiyama et trouvez la paix dans les jardins de pierres zen de Ryōan-ji. Chaque saison transforme la ville : cerisiers en fleurs au printemps, érables flamboyants à l’automne. Les ryokan traditionnels, la cuisine kaiseki et l’art de la cérémonie du thé vous y attendent.",
-  "aca845e010d27187": "Centre de remise en forme",
+  "a2e47bf352be557f": "Grande suite avec balcon et services de luxe.",
+  "abbf3a53f8a75564": "Kyoto est le berceau de l’âme japonaise. Marchez sous les emblématiques portails torii vermillon de Fushimi Inari, perdez-vous dans l’éthérée bambouseraie d’Arashiyama et trouvez la paix dans les jardins de pierres zen de Ryōan-ji. À chaque saison, la ville se transforme : cerisiers en fleurs au printemps, érables flamboyants à l’automne. Les ryokan traditionnels, la cuisine kaiseki et l’art de la cérémonie du thé vous y attendent.",
+  "aca845e010d27187": "Salle de sport",
   "aec703117cb5a895": "Santorin, Grèce",
   "b219cd3ec0f247be": "Suite romantique avec bassin profond privé et vue sur le coucher de soleil.",
   "b2fc84a56f245f5d": "Paris, France",
-  "b301ff0ba11eaa20": "Superbe établissement avec d’excellents équipements. L’espace piscine était une belle surprise pour un hôtel en ville.",
-  "b39d2a09c5dec6f6": "Bali enchante les visiteurs par son énergie spirituelle et sa beauté naturelle. Randonnez à travers les rizières émeraude de Tegallalang, admirez le coucher du soleil en assistant à un spectacle traditionnel de danse kecak et purifiez votre esprit au temple sacré de Tirta Empul. Du centre artistique d’Ubud aux beach clubs de Seminyak, Bali offre une riche palette d’expériences : retraites de yoga, spots de surf de classe mondiale et cuisine qui émerveille à chaque repas.",
+  "b301ff0ba11eaa20": "Superbe établissement, très bien équipé. L’espace piscine était une excellente surprise pour un hôtel en ville.",
+  "b39d2a09c5dec6f6": "Bali envoûte les visiteurs par son énergie spirituelle et sa beauté naturelle. Randonnez à travers les rizières d’un vert émeraude de Tegallalang, assistez à une danse traditionnelle Kecak au coucher du soleil et purifiez votre esprit au temple sacré de Tirta Empul. Du centre artistique d’Ubud aux beach clubs de Seminyak, Bali offre une riche palette d’expériences — retraites de yoga, spots de surf de classe mondiale et une gastronomie qui étonne à chaque repas.",
   "b879dad12b55f583": {
     "c": "Types de chambres",
     "i": 1,
     "t": "h2"
   },
   "bfbd9bce214e5b9d": "Ubud, Bali, Indonésie",
-  "bfe506884a4a0d04": "Une métropole éblouissante où d’anciens temples côtoient des gratte-ciel illuminés de néons. Explorez des siècles d’histoire, une cuisine de classe mondiale et des technologies de pointe.",
+  "bfe506884a4a0d04": "Une métropole vibrante où des temples ancestraux se dressent aux côtés de gratte-ciel illuminés au néon. Découvrez des siècles d’histoire, une gastronomie de niveau mondial et des technologies de pointe.",
   "c26d6acd8e1b2aa2": {
     "c": [
       {
@@ -874,7 +1069,7 @@
     "i": 1,
     "t": "div"
   },
-  "c8cd2f6898ef6d1c": "Le complexe de luxe au meilleur rapport qualité-prix où nous ayons jamais séjourné. Le cours de cuisine balinaise a été un vrai temps fort.",
+  "c8cd2f6898ef6d1c": "Le complexe de luxe avec le meilleur rapport qualité-prix où nous ayons jamais séjourné. Le cours de cuisine balinaise a été l’un des temps forts.",
   "cb5fa7ee48878906": [
     {
       "c": [
@@ -1028,206 +1223,21 @@
     "i": 1,
     "t": "nav"
   },
-  "cf3b3b4ad53619dd": "Excellentes installations et excellent service. La salle de sport était parfaitement équipée pour les entraînements du matin.",
-  "d00a867c35108928": [
-    {
-      "c": "À propos de cette démo",
-      "i": 1,
-      "t": "h1"
-    },
-    {
-      "c": [
-        {
-          "c": [
-            {
-              "c": "De quoi s'agit-il ?",
-              "i": 4,
-              "t": "h2"
-            },
-            {
-              "c": "Il s'agit d'une application de réservation de voyages de démonstration conçue pour illustrer les fonctionnalités d'internationalisation de General Translation. Chaque texte, chaque prix, chaque date et chaque forme de pluriel sur ce site est automatiquement adapté à votre langue et à votre région.",
-              "i": 5,
-              "t": "p"
-            }
-          ],
-          "i": 3,
-          "t": "section"
-        },
-        {
-          "c": [
-            {
-              "c": "Fonctionnalités GT illustrées",
-              "i": 7,
-              "t": "h2"
-            },
-            {
-              "c": [
-                {
-                  "c": [
-                    {
-                      "c": [
-                        "<T> component"
-                      ],
-                      "i": 10,
-                      "t": "strong"
-                    },
-                    " — encapsule des sections entières pour la traduction, en préservant la structure JSX"
-                  ],
-                  "i": 9,
-                  "t": "li"
-                },
-                {
-                  "c": [
-                    {
-                      "c": "<Currency>",
-                      "i": 12,
-                      "t": "strong"
-                    },
-                    " — formatage des devises adapté aux paramètres régionaux, avec adaptation des symboles et de leur position"
-                  ],
-                  "i": 11,
-                  "t": "li"
-                },
-                {
-                  "c": [
-                    {
-                      "c": "<DateTime>",
-                      "i": 14,
-                      "t": "strong"
-                    },
-                    " — dates formatées selon les conventions régionales"
-                  ],
-                  "i": 13,
-                  "t": "li"
-                },
-                {
-                  "c": [
-                    {
-                      "c": "<Plural>",
-                      "i": 16,
-                      "t": "strong"
-                    },
-                    " — formes au singulier et au pluriel grammaticalement correctes"
-                  ],
-                  "i": 15,
-                  "t": "li"
-                },
-                {
-                  "c": [
-                    {
-                      "c": "<Num>",
-                      "i": 18,
-                      "t": "strong"
-                    },
-                    " — formatage des nombres avec séparateurs adaptés aux paramètres régionaux"
-                  ],
-                  "i": 17,
-                  "t": "li"
-                },
-                {
-                  "c": [
-                    {
-                      "c": "getGT()",
-                      "i": 20,
-                      "t": "strong"
-                    },
-                    " — traduction côté serveur pour les métadonnées, le texte alternatif et les chaînes dynamiques"
-                  ],
-                  "i": 19,
-                  "t": "li"
-                },
-                {
-                  "c": [
-                    {
-                      "c": "Locale routing",
-                      "i": 22,
-                      "t": "strong"
-                    },
-                    " — détection automatique des paramètres régionaux et changement de langue par URL"
-                  ],
-                  "i": 21,
-                  "t": "li"
-                }
-              ],
-              "i": 8,
-              "t": "ul"
-            }
-          ],
-          "i": 6,
-          "t": "section"
-        },
-        {
-          "c": [
-            {
-              "c": "En savoir plus",
-              "i": 24,
-              "t": "h2"
-            },
-            {
-              "c": "Explorez la documentation et les ressources de General Translation :",
-              "i": 25,
-              "t": "p"
-            },
-            {
-              "c": [
-                {
-                  "c": "Documentation →",
-                  "i": 27,
-                  "t": "a"
-                },
-                {
-                  "c": "Code source →",
-                  "i": 28,
-                  "t": "a"
-                },
-                {
-                  "c": "General Translation →",
-                  "i": 29,
-                  "t": "a"
-                }
-              ],
-              "i": 26,
-              "t": "div"
-            }
-          ],
-          "i": 23,
-          "t": "section"
-        },
-        {
-          "c": [
-            {
-              "c": "⚠️ Avertissement",
-              "i": 31,
-              "t": "h2"
-            },
-            {
-              "c": "Il s'agit d'une application de démonstration. Aucune réservation réelle n'est traitée, aucun paiement n'est collecté et aucun service de voyage n'est fourni. Toutes les destinations, prix, avis et disponibilités affichés sont fictifs et utilisés uniquement pour illustrer les fonctionnalités d'internationalisation.",
-              "i": 32,
-              "t": "p"
-            }
-          ],
-          "i": 30,
-          "t": "section"
-        }
-      ],
-      "i": 2,
-      "t": "div"
-    }
-  ],
+  "cf3b3b4ad53619dd": "Des équipements et un service excellents. La salle de sport était parfaitement équipée pour nos entraînements matinaux.",
   "d020aa82dd871c46": {
-    "c": "Conçu avec General Translation pour démontrer le formatage des prix, des dates et des pluriels en fonction des paramètres régionaux.",
+    "c": "Conçu avec General Translation pour démontrer le formatage adapté aux paramètres régionaux des prix, des dates et des pluriels.",
     "i": 1,
     "t": "p"
   },
-  "d5d92191426ff1a8": "Travel Booking | Traduction générique",
-  "d6c4a24990157b3e": "Un mélange parfait de tradition et de confort. Le jardin était si paisible que je n’avais plus envie de partir.",
+  "d5d92191426ff1a8": "Réservation de voyages | Traduction générique",
+  "d6c4a24990157b3e": "Un mélange parfait de tradition et de confort. Le jardin était tellement paisible que je n’avais plus envie de partir.",
   "d6ce42804fbbf32c": {
     "c": "Réservez votre séjour",
     "i": 1,
     "t": "h3"
   },
   "d727969132ed682a": "Chambre moderne avec vue sur la skyline de Manhattan.",
-  "d88fbba24b94901e": "Découvrez et réservez des destinations inoubliables avec des tarifs, des dates et un nombre de voyageurs adaptés à la langue et à la région.",
+  "d88fbba24b94901e": "Découvrez et réservez des destinations inoubliables avec des prix, des dates et un nombre de voyageurs adaptés à la langue et à la région.",
   "d9a2b031e38902bc": "Deluxe",
   "de67005dedf10dfe": {
     "c": [
@@ -1249,10 +1259,10 @@
     "i": 1,
     "t": "div"
   },
-  "df1d9caf4d1e725f": "Tokyo marie harmonieusement innovation ultra-moderne et traditions séculaires. Flânez dans le cadre paisible du sanctuaire Meiji avant de plonger dans l’effervescence électrique du carrefour de Shibuya. Dégustez des sushis exquis à Tsukiji, découvrez des boutiques insolites à Harajuku et profitez de vues panoramiques sur la ville depuis la Tokyo Skytree. Que vous recherchiez des jardins paisibles ou une vie nocturne animée, Tokyo offre une expérience inoubliable.",
-  "e0a695de2a4193c8": "La Ville Lumière vous appelle avec ses monuments emblématiques, ses musées de renommée mondiale et sa culture des cafés où chaque repas devient un moment à part.",
-  "e37a177b531d4d30": "Suite premium alliant styles traditionnel et contemporain.",
-  "e38169acc96bd871": "Paris séduit par son élégance intemporelle. Montez au sommet de la tour Eiffel au crépuscule, parcourez les galeries du Louvre et flânez le long de la Seine en passant devant Notre-Dame. Savourez des croissants beurrés en terrasse, explorez le quartier artistique de Montmartre et faites les boutiques sur les Champs-Élysées. Des tables gastronomiques aux bistrots cachés, Paris est un véritable festin pour tous les sens.",
+  "df1d9caf4d1e725f": "Tokyo marie harmonieusement innovation ultra-moderne et traditions séculaires. Flânez dans le calme du sanctuaire Meiji avant de plonger dans l’effervescence électrique du carrefour de Shibuya. Dégustez des sushis exquis à Tsukiji, explorez les boutiques insolites de Harajuku et admirez les vues panoramiques sur la ville depuis la Tokyo Skytree. Que vous recherchiez des jardins paisibles ou une vie nocturne vibrante, Tokyo offre une expérience inoubliable.",
+  "e0a695de2a4193c8": "La Ville Lumière vous appelle avec ses monuments emblématiques, ses musées de renommée mondiale et sa culture des cafés qui fait de chaque repas un véritable moment de partage.",
+  "e37a177b531d4d30": "Suite premium mêlant design traditionnel et contemporain.",
+  "e38169acc96bd871": "Paris séduit par son élégance intemporelle. Montez au sommet de la tour Eiffel au crépuscule, flânez dans les galeries du Louvre et promenez-vous le long de la Seine en passant devant Notre-Dame. Régalez-vous de croissants beurrés à la terrasse d’un café, explorez le quartier artistique de Montmartre et faites du shopping le long des Champs-Élysées. De la haute cuisine aux bistrots cachés, Paris est un festin pour tous les sens.",
   "e5ea8b399db2f5b1": "New York, États-Unis",
   "e81ae7619109348a": {
     "c": [
@@ -1291,7 +1301,7 @@
     "i": 1,
     "t": "span"
   },
-  "f289674e9b4baea5": "Une expérience culturelle merveilleuse. Le personnel a organisé pour nous une cérémonie du thé privée, c’était magique.",
+  "f289674e9b4baea5": "Une expérience culturelle merveilleuse. Le personnel a organisé pour nous une cérémonie de thé privée, c’était magique.",
   "f8dc62e5d2534f50": "Kyoto, Japon",
   "faa6dc12d08b4360": "Wi-Fi gratuit",
   "fabb9001ad2f0a2a": "Shinjuku, Tokyo, Japon"
